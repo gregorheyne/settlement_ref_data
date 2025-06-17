@@ -1,0 +1,853 @@
+Account,LEI,MemberID,Member Mnemonic,Firmcode,Market Source,Settles In,Settlement Code,Settlement Type,Settlement Provider,Market Making,TradingNotesMember
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSAGB21,ICSA,824,Off Book trading,CREST,824,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB21,ICSR,573,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB21,ICSR,573,International Order Book,Euroclear Bank,14448,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB21,ICSR,573,SETS Order Book,CREST,573,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB21,ICSR,573,Off Book trading,Euroclear Bank,14448,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB21,ICSR,573,Off Book trading,CREST,573,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB22,ICSS,573,SETS Order Book,CREST,585A,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,ICSRGB22,ICSS,573,Off Book trading,CREST,585A,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ABN AMRO CLEARING BANK N.V.,G8ZTNESVNKW4NN761W05,PIERGB21,PIER,585,Off Book trading,CREST,585,Self-Settlement,ABN AMRO CLEARING BANK N.V.,False,
+ACG Advisors (UK) LLP,2138004A38ZO2DEMSU28,ACVPGB21,ACVP,697,Off Book trading,CREST,4KUAA,Self-Settlement,ACG Advisors (UK) LLP,False,
+ACG Advisors (UK) LLP,2138004A38ZO2DEMSU28,ACVPGB21,ACVP,697,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+ADM Investor Services International Limited,213800GNABQM2M887812,AISIGB21,ADMI,245,Off Book trading,Euroclear Bank,10123,Self-Settlement,ADM Investor Services International Limited,False,
+ADM Investor Services International Limited,213800GNABQM2M887812,AISIGB21,ADMI,245,Off Book trading,CREST,245,Self-Settlement,ADM Investor Services International Limited,False,
+ADM Investor Services International Limited,213800GNABQM2M887812,AISIGB21001,ADML,245,Off Book trading,CREST,245,Self-Settlement,ADM Investor Services International Limited,False,
+A J Bell Securities Limited,213800Y4I7TN34WUBD71,LAWHGB21,LASL,446,Off Book trading,CREST,446,Self-Settlement,A J Bell Securities Limited,False,
+Algorithmic Trading Group Netherlands Management B.V.,724500T1N36N5U22MB23,ATGNNL21,ATGN,860,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Algorithmic Trading Group Netherlands Management B.V.,724500T1N36N5U22MB23,ATGNNL21,ATGN,860,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Algorithmic Trading Group Netherlands Management B.V.,724500T1N36N5U22MB23,ATGNNL21,ATGN,860,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Algorithmic Trading Group Netherlands Management B.V.,724500T1N36N5U22MB23,ATGNNL21,ATGN,860,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Algorithmic Trading Group Netherlands Management B.V.,724500T1N36N5U22MB23,ATGNNL21,ATGN,860,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Allia C&C Limited,2138005IBYJDKUZMN564,ALLIACC0001,ALIA,1,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Arbuthnot Latham & Co. Limited,21380038NTY1PVJ3IY34,ARBUGB2L,ARBU,664,Off Book trading,CREST,CHKAV,Self-Settlement,Arbuthnot Latham & Co. Limited,False,
+Armira Capital Limited,213800JH88W6JWSEJF05,ARLPGB21,ARCL,295,Off Book trading,DTCC,443,Model-B,Pershing Securities Limited,False,
+Armira Capital Limited,213800JH88W6JWSEJF05,ARLPGB21,ARCL,295,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Armira Capital Limited,213800JH88W6JWSEJF05,ARLPGB21,ARCL,295,Off Book trading,Euroclear Bank,75663,Model-B,Pershing Securities Limited,False,
+Arnold Stansby & Co Limited,213800Q66D4FUSHCJA76,ARNTGB21,ASBY,19,Order Book for Retail Bonds,CREST,019,Self-Settlement,Arnold Stansby & Co Limited,False,
+Arnold Stansby & Co Limited,213800Q66D4FUSHCJA76,ARNTGB21,ASBY,19,Off Book trading,CREST,019,Self-Settlement,Arnold Stansby & Co Limited,False,
+Aurel BGC,5RJTDGZG4559ESIYLD31,AULSFRP1,AULS,512,Off Book trading,Euroclear Bank,22535,Settlement-Agent,Parel SA,False,
+Aurel BGC,5RJTDGZG4559ESIYLD31,AULSFRP1,AULS,512,Off Book trading,CREST,KCUAA,Settlement-Agent,Parel SA,False,
+Avior Capital Markets International Limited,213800N25VHLSIV47443,ACMIGB21,ACMI,397,Off Book trading,CREST,19801,Settlement-Agent,Linear Investments Limited,False,
+Avior Capital Markets International Limited,213800N25VHLSIV47443,ACMIGB21,ACMI,397,Off Book trading,CREST,601,Settlement-Agent,Cowen International Limited,False,
+Avior Capital Markets International Limited,213800N25VHLSIV47443,ACMIGB21,ACMI,397,Off Book trading,CREST,7SQAN,Self-Settlement,Avior Capital Markets International Limited,False,
+Axis Capital Markets Limited,2138001UYFF4L8FOMN55,AXCAP247,AXCA,542,Off Book trading,CREST,BH01,Settlement-Agent,ABN AMRO CLEARING BANK N.V.,False,
+Axis Capital Markets Limited,2138001UYFF4L8FOMN55,AXCKGB22,AXIS,542,Off Book trading,DTCC,2648,Settlement-Agent,Global Prime Partners Ltd,False,
+Axis Capital Markets Limited,2138001UYFF4L8FOMN55,AXCKGB22,AXIS,542,Off Book trading,Euroclear Bank,44382,Settlement-Agent,Global Prime Partners Ltd,False,
+Axis Capital Markets Limited,2138001UYFF4L8FOMN55,AXCKGB22,AXIS,542,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMABN,BATF,135,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMABN,BATF,135,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMABN,BATF,135,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMXXX,BAAD,135,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,95383,Settlement-Agent,Caceis Bank SA,False,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMXXX,BAAD,135,International Order Book,Euroclear Bank,95383,Settlement-Agent,Caceis Bank SA,False,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMXXX,BAAD,135,SETS Order Book,CREST,BOMAY,Settlement-Agent,Citibank N.A.,False,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMXXX,BAAD,135,Off Book trading,Euroclear Bank,95383,Settlement-Agent,CACEIS Bank Deutschland GmbH,False,
+Baader Bank AG,529900JFOPPEDUR61H13,BDWBDEMMXXX,BAAD,135,Off Book trading,CREST,BOMAY,Settlement-Agent,CACEIS Bank Deutschland GmbH,False,
+Banco Santander S.A. London Branch,5493006QMFDDMYWIAM13,BSCHGB2L,BSCH,408,Off Book trading,CREST,NBUAG,Self-Settlement,Banco Santander S.A. London Branch,False,
+Bank of Montreal London Branch,NQQ6HPCNCCU6TUTQYE16,BOFMGB2XXXX,BOFM,719,Off Book trading,CREST,OBUAK,Self-Settlement,Bank of Montreal London Branch,False,
+Bank of Nova Scotia (London Branch),L3I9ZG2KFGXZ61BMYR72,NOSCGB22,BNSL,43,SETS Order Book,CREST,2FQAQ,Settlement-Agent,BNP Paribas SA,False,
+Bank of Nova Scotia (London Branch),L3I9ZG2KFGXZ61BMYR72,NOSCGB22,BNSL,43,Off Book trading,CREST,2FQAQ,Settlement-Agent,BNP Paribas SA,False,
+Bank of Nova Scotia (London Branch),L3I9ZG2KFGXZ61BMYR72,NOSCGB22,BNSL,43,Off Book trading,CREST,AFQAQ,Settlement-Agent,BNP Paribas SA,False,
+Barclays Bank Plc,G5GSEF7VJP5I7OUK5573,BARCGB71,BPLC,34,Order Book for Retail Bonds,CREST,034,Self-Settlement,Barclays Bank Plc,Yes,GEMM - IL GEMM
+Barclays Bank Plc,G5GSEF7VJP5I7OUK5573,BARCGB71,BPLC,34,Off Book trading,CREST,034,Self-Settlement,Barclays Bank Plc,Yes,GEMM - IL GEMM
+Barclays Bank Plc,G5GSEF7VJP5I7OUK5573,BARCGB71,BPLC,34,Off Book trading,CREST,19801,Self-Settlement,Barclays Bank Plc,Yes,GEMM - IL GEMM
+Barclays Bank Plc,G5GSEF7VJP5I7OUK5573,BARKGB2L,BYSL,895,Off Book trading,CREST,14XKD,Settlement-Agent,Citibank N.A.,False,
+Barclays Bank Plc,G5GSEF7VJP5I7OUK5573,BARKGB2L,BYSL,895,Off Book trading,CREST,19XHY,Settlement-Agent,Citibank N.A.,False,
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGB91,BARC,198,Off Book trading,DTCC,2103,Self-Settlement,Barclays Capital Securities Limited,False,
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGB91,BARC,198,Off Book trading,Euroclear Bank,21057,Self-Settlement,Barclays Capital Securities Limited,False,
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGB91,BARC,198,Off Book trading,CREST,598,Self-Settlement,Barclays Capital Securities Limited,False,
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,21057,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,International Order Book,Euroclear Bank,21057,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,SETS Order Book,CREST,598,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,Off Book trading,DTCC,2103,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,Off Book trading,Euroclear Bank,21057,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Capital Securities Limited,K9WDOH4D2PYBSLSOB484,BARCGBN1,BCSI,198,Off Book trading,CREST,598,Self-Settlement,Barclays Capital Securities Limited,Yes,Market Maker - UK Securities
+Barclays Investment Solutions Limited,549300ZL2JBI0IJS5732,BASBGB21,BACS,113,Off Book trading,CREST,LMUAG,Settlement-Agent,FNZ (UK) Ltd,False,
+Barclays Investment Solutions Limited,549300ZL2JBI0IJS5732,GRMDGB21,GERD,312,Off Book trading,CREST,14XJD,Settlement-Agent,Citibank N.A.,False,
+Barratt & Cooke,213800N3A2EZWGLPFW11,BCOKGB21,BACO,37,Off Book trading,CREST,037,Self-Settlement,Barratt & Cooke,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,AUAUGB22,AUAU,899,Off Book trading,CREST,2CUAG,Settlement-Agent,Societe Generale,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,AUAUGB22,AUAU,899,Off Book trading,Euroclear Bank,74696,Settlement-Agent,Societe Generale,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,SCBUGB2L,SCBL,899,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,74696,Settlement-Agent,Societe Generale,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,SCBUGB2L,SCBL,899,International Order Book,Euroclear Bank,74696,Settlement-Agent,Societe Generale,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,SCBUGB2L,SCBL,899,SETS Order Book,CREST,2CUAG,Settlement-Agent,Societe Generale,False,
+Bernstein Autonomous LLP,213800LBM6PT85IGM996,SCBUGB2L,SCBL,899,Off Book trading,CREST,2CUAG,Settlement-Agent,Societe Generale,False,
+BGC Brokers L.P.,ZWNFQ48RUL8VJZ2AIC12,BGCBGB21BND,BGCB,292,Off Book trading,CREST,BO025,Settlement-Agent,Banco Bilbao Vizcaya Argentaria S.A.,False,
+BGC Brokers L.P.,ZWNFQ48RUL8VJZ2AIC12,BGCBGB21BND,BGCB,292,Off Book trading,CREST,HPUAG,Settlement-Agent,Deutsche Bank AG,False,
+BGC Brokers L.P.,ZWNFQ48RUL8VJZ2AIC12,BGCBGB21BND,BGCB,292,Off Book trading,CREST,MPUAA,Settlement-Agent,Banco Bilbao Vizcaya Argentaria S.A.,False,
+BGC Brokers L.P.,ZWNFQ48RUL8VJZ2AIC12,BGCBGB21IDB,BGCI,292,Off Book trading,CREST,HPUAG,Settlement-Agent,Deutsche Bank AG,False,GILT Inter Dealer Broker
+BGC Brokers L.P.,ZWNFQ48RUL8VJZ2AIC12,MIEQGB21,MINT,126,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,78272,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,International Order Book,Euroclear Bank,78272,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,SETS Order Book,CREST,BIMAY,Self-Settlement,BMO Capital Markets Limited,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,Off Book trading,DTCC,2787,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,Off Book trading,CREST,5NQAN,Self-Settlement,BMO Capital Markets Limited,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,Off Book trading,Euroclear Bank,78272,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BMO Capital Markets Limited,L64HM9LHPDOS1B9HJC68,NETHGB21,BMCM,95,Off Book trading,CREST,KGQAQ,Self-Settlement,BMO Capital Markets Limited,Yes,Market Maker - UK Securities
+BNP Paribas,R0MUWSFPU8MPRO8K5P83,BNPAFRPP,BNPP,78,Off Book trading,CREST,77799,Settlement-Agent,BNP Paribas SA,Yes,GEMM - IL GEMM - ORB - OFIS
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNABFRPP,BNPA,206,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,15024,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNABFRPP,BNPA,206,International Order Book,Euroclear Bank,15024,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNABFRPP,BNPA,206,SETS Order Book,CREST,ELKAV,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNABFRPP,BNPA,206,Off Book trading,Euroclear Bank,15024,Self-Settlement,BNP Paribas Arbitrage SNC,Yes,Market Maker - UK Securities
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNABFRPP,BNPA,206,Off Book trading,CREST,ELKAV,Self-Settlement,BNP Paribas Arbitrage SNC,Yes,Market Maker - UK Securities
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNPFREMD,BNPF,206,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,15024,Settlement-Agent,BNP Paribas SA,False,
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNPFREMD,BNPF,206,International Order Book,Euroclear Bank,15024,Settlement-Agent,BNP Paribas SA,False,
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNPFREMD,BNPF,206,SETS Order Book,CREST,ELKAV,Settlement-Agent,BNP Paribas SA,False,
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNPFREMD,BNPF,206,Off Book trading,Euroclear Bank,15024,Settlement-Agent,BNP Paribas SA,False,
+BNP Paribas Financial Markets,6EWKU0FGVX5QQJHFGT48,BNPFREMD,BNPF,206,Off Book trading,CREST,ELKAV,Settlement-Agent,BNP Paribas SA,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB21,BRED,92,Off Book trading,DTCC,0901,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB21,BRED,92,Off Book trading,CREST,09204,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB21,BRED,92,Off Book trading,Euroclear Bank,94987,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB21JER,BRWJ,92,Off Book trading,Euroclear Bank,76715,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB21JER,BRWJ,92,Off Book trading,CREST,BDJ01,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB2LBIC,BREW,92,Order Book for Retail Bonds,CREST,092,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB2LBIC,BREW,92,Off Book trading,DTCC,0901,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB2LBIC,BREW,92,Off Book trading,CREST,092,Self-Settlement,Brewin Dolphin Limited,False,
+Brewin Dolphin Limited,213800PLIGVGFM4K2R87,BRWDGB2LBIC,BREW,92,Off Book trading,Euroclear Bank,94987,Self-Settlement,Brewin Dolphin Limited,False,
+Britannia Global Investments Limited,213800RQDMXA2PCIY732,BRGVGB22,BGIL,724,Off Book trading,CREST,BO01,Settlement-Agent,Standard Chartered Bank,False,
+Britannia Global Markets Limited,213800GWMSRCJYDTHO27,BEKFGB21,BKFL,783,Off Book trading,CREST,BO01,Settlement-Agent,Standard Chartered Bank,False,
+Brooks Macdonald Asset Management Limited,213800A6KGK5GO17EZ17,BMAAGB2L,BMAA,4,Off Book trading,CREST,FFOAD,Self-Settlement,Brooks Macdonald Asset Management Limited,False,
+Bryan Garnier & Company Limited,213800QFPP8QFI9PUP95,BRGAGB21,BYGA,104,Off Book trading,CREST,2CUAG,Settlement-Agent,Societe Generale,False,
+BTIG Limited,213800YZXS7U4QZP6441,BTIGGB21,BTIG,171,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+BTIG Limited,213800YZXS7U4QZP6441,BTIGGB21,BTIG,171,Off Book trading,DTCC,5208,Settlement-Agent,Goldman Sachs International,False,
+BTIG Limited,213800YZXS7U4QZP6441,BTIGGB21,BTIG,171,Off Book trading,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,False,
+Canaccord Genuity Limited,ZBU7VFV5NIMN4ILRFC23,CSTEGB21,CANA,288,Order Book for Retail Bonds,CREST,805,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - Fixed Interest - ORB - UK Domestic
+Canaccord Genuity Limited,ZBU7VFV5NIMN4ILRFC23,CSTEGB21,CANA,288,SETS Order Book,CREST,805,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - Fixed Interest - ORB - UK Domestic
+Canaccord Genuity Limited,ZBU7VFV5NIMN4ILRFC23,CSTEGB21,CANA,288,Off Book trading,DTCC,2787,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - Fixed Interest - ORB - UK Domestic
+Canaccord Genuity Limited,ZBU7VFV5NIMN4ILRFC23,CSTEGB21,CANA,288,Off Book trading,Euroclear Bank,77317,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - Fixed Interest - ORB - UK Domestic
+Canaccord Genuity Limited,ZBU7VFV5NIMN4ILRFC23,CSTEGB21,CANA,288,Off Book trading,CREST,805,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - Fixed Interest - ORB - UK Domestic
+Canaccord Genuity Wealth Limited,213800LJU4K7L7CBFN57,EGRPGB21,EGRP,184,Off Book trading,DTCC,00010,Settlement-Agent,Canaccord Genuity Wealth (International) Limited,False,
+Canaccord Genuity Wealth Limited,213800LJU4K7L7CBFN57,EGRPGB21,EGRP,184,Off Book trading,CREST,2RUAA,Settlement-Agent,Canaccord Genuity Wealth (International) Limited,False,
+Canadian Imperial Bank of Commerce (London Branch),2IGI19DL77OX0HC3ZE78,CIBCGB2L,CIBC,977,Off Book trading,CREST,2GMAY,Settlement-Agent,BNP Paribas SA,False,
+Canadian Imperial Bank of Commerce (London Branch),2IGI19DL77OX0HC3ZE78,CIBCGB2L,CIBC,977,Off Book trading,CREST,56XKK,Settlement-Agent,Euroclear Bank,False,
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,Order Book for Retail Bonds,CREST,635,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,SETS Order Book,CREST,635,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,Off Book trading,Euroclear Bank,22707,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,Off Book trading,CREST,635,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,Off Book trading,DTCC,696,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21EPE,CFEP,635,Off Book trading,CREST,FNMAY,Self-Settlement,Cantor Fitzgerald Europe,Yes,Market Maker - UK Securities
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21RET,CFER,663,SETS Order Book,CREST,663,Self-Settlement,Cantor Fitzgerald Europe,False,
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21RET,CFER,663,Off Book trading,Euroclear Bank,22707,Self-Settlement,Cantor Fitzgerald Europe,False,
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21RET,CFER,663,Off Book trading,CREST,663,Self-Settlement,Cantor Fitzgerald Europe,False,
+Cantor Fitzgerald Europe,549300KM6VUHPKQLQX53,CFEQGB21RET,CFER,663,Off Book trading,DTCC,696,Self-Settlement,Cantor Fitzgerald Europe,False,
+Cantor Fitzgerald Ireland Limited,635400N5XVNTLTWTUK34,BUTBIE21,B&BE,114,Off Book trading,CREST,114,Model-B,Pershing Securities Limited,False,
+Cantor Fitzgerald Ireland Limited,635400N5XVNTLTWTUK34,BUTBIE2DSET,DSLD,114,Off Book trading,DTCC,010,Model-B,Pershing Securities Limited,False,
+Cantor Fitzgerald Ireland Limited,635400N5XVNTLTWTUK34,BUTBIE2DSET,DSLD,114,Off Book trading,Euroclear Bank,82701,Model-B,Pershing Securities Limited,False,
+Cantor Fitzgerald Ireland Limited,635400N5XVNTLTWTUK34,DOLMIE21,DLMS,114,SETS Order Book,CREST,KPKAV,Model-B,Pershing Securities Limited,False,
+Cantor Fitzgerald Ireland Limited,635400N5XVNTLTWTUK34,DOLMIE21,DLMS,114,Off Book trading,CREST,KPKAV,Model-B,Pershing Securities Limited,False,
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21,CNKS,678,Order Book for Retail Bonds,CREST,ABOAD,Self-Settlement,Cenkos Securities Plc,Yes,Market Maker - UK Securities
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21,CNKS,678,SETS Order Book,CREST,ABOAD,Self-Settlement,Cenkos Securities Plc,Yes,Market Maker - UK Securities
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21,CNKS,678,Off Book trading,CREST,ABOAD,Self-Settlement,Cenkos Securities Plc,Yes,Market Maker - UK Securities
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21001,CNKB,678,Order Book for Retail Bonds,CREST,601,Model-B,Pershing Securities Limited,False,
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21001,CNKB,678,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+Cavendish Securities Plc,213800ALVRC52VN3I821,CNKOGB21001,CNKB,678,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Charles Stanley & Company Limited,213800R62RPGBBLQRT21,CSTAGB21,STAN,698,International Order Book,Euroclear Bank,90998,Self-Settlement,Charles Stanley & Company Limited,False,
+Charles Stanley & Company Limited,213800R62RPGBBLQRT21,CSTAGB21,STAN,698,Order Book for Retail Bonds,CREST,698,Self-Settlement,Charles Stanley & Company Limited,False,
+Charles Stanley & Company Limited,213800R62RPGBBLQRT21,CSTAGB21,STAN,698,SETS Order Book,CREST,698,Self-Settlement,Charles Stanley & Company Limited,False,
+Charles Stanley & Company Limited,213800R62RPGBBLQRT21,CSTAGB21,STAN,698,Off Book trading,CREST,698,Self-Settlement,Charles Stanley & Company Limited,False,
+Charles Stanley & Company Limited,213800R62RPGBBLQRT21,CSTAGB21,STAN,698,Off Book trading,Euroclear Bank,90998,Self-Settlement,Charles Stanley & Company Limited,False,
+China International Capital Corporation (UK) Limited,213800STG3UV87MDGA96,CICRGB21,CICR,645,Off Book trading,CREST,GRQAN,Settlement-Agent,BNP Paribas SA,False,
+Citadel Securities (Europe) Limited,549300WTVI4KO4GEJN54,CITGUS44DGE,CDGE,61,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Citadel Securities (Europe) Limited,549300WTVI4KO4GEJN54,CITGUS44DGE,CDGE,61,International Order Book,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Citadel Securities (Europe) Limited,549300WTVI4KO4GEJN54,CITGUS44DGE,CDGE,61,SETS Order Book,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+Citadel Securities (Europe) Limited,549300WTVI4KO4GEJN54,CITGUS44DGE,CDGE,61,Off Book trading,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Citadel Securities (Europe) Limited,549300WTVI4KO4GEJN54,CITGUS44DGE,CDGE,61,Off Book trading,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+Citadel Securities GCS (Ireland) Limited,549300J11TNGTWCC3R56,CSGIIE31,CSGI,454,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,24288,Settlement-Agent,BofA Securities Europe SA,False,
+Citadel Securities GCS (Ireland) Limited,549300J11TNGTWCC3R56,CSGIIE31,CSGI,454,International Order Book,Euroclear Bank,24288,Settlement-Agent,BofA Securities Europe SA,False,
+Citadel Securities GCS (Ireland) Limited,549300J11TNGTWCC3R56,CSGIIE31,CSGI,454,SETS Order Book,CREST,NDUAG,Settlement-Agent,BofA Securities Europe SA,False,
+Citadel Securities GCS (Ireland) Limited,549300J11TNGTWCC3R56,CSGIIE31,CSGI,454,Off Book trading,Euroclear Bank,24288,Settlement-Agent,BofA Securities Europe SA,False,
+Citadel Securities GCS (Ireland) Limited,549300J11TNGTWCC3R56,CSGIIE31,CSGI,454,Off Book trading,CREST,NDUAG,Settlement-Agent,BofA Securities Europe SA,False,
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,90895,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,International Order Book,Euroclear Bank,90895,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,SETS Order Book,CREST,9SMAY,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,Off Book trading,CREST,7946,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,Off Book trading,Euroclear Bank,90895,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Citigroup Global Markets Limited,XKZZ2JZF41MRHTR1V493,SBILGB2L,SBIL,644,Off Book trading,CREST,9SMAY,Self-Settlement,Citigroup Global Markets Limited,Yes,GEMM - IL GEMM - Ring Fenced Membership - UK Securities
+Clear Capital Markets Ltd,213800WIYDZUOR5GQ424,CLCGCCMGHCL,CLCG,643,Off Book trading,CREST,872,Settlement-Agent,GHC Capital Markets Limited,False,
+Clear Capital Markets Ltd,213800WIYDZUOR5GQ424,CLCMGB22,CLCM,643,Off Book trading,CREST,091,Settlement-Agent,James Brearley & Sons Limited,False,
+CLSA (UK),213800VZMAGVIU2IJA72,CLSAGB21,CLSA,422,International Order Book,Euroclear Bank,23938,Self-Settlement,CLSA (UK),False,
+CLSA (UK),213800VZMAGVIU2IJA72,CLSAGB21,CLSA,422,SETS Order Book,CREST,FACBA,Settlement-Agent,Citibank N.A.,False,
+CLSA (UK),213800VZMAGVIU2IJA72,CLSAGB21,CLSA,422,Off Book trading,DTCC,205249,Self-Settlement,CLSA (UK),False,
+CLSA (UK),213800VZMAGVIU2IJA72,CLSAGB21,CLSA,422,Off Book trading,Euroclear Bank,23938,Self-Settlement,CLSA (UK),False,
+CLSA (UK),213800VZMAGVIU2IJA72,CLSAGB21,CLSA,422,Off Book trading,CREST,FACBA,Settlement-Agent,Citibank N.A.,False,
+CMC Markets UK plc,213800IU529ADVZ1GL50,CMCKGB2L,CMCX,673,Off Book trading,CREST,598,Settlement-Agent,Barclays Capital Securities Limited,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,RABONL2URSA,RBNL,975,Off Book trading,CREST,2NQAQ,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,RABONL2URSA,RBNL,975,Off Book trading,CREST,KASGB,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL21,RABO,889,Off Book trading,CREST,9FOAD,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2A,RABS,975,Off Book trading,CREST,2NQAQ,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2A,RABS,975,Off Book trading,CREST,KASGB,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2ADAM,RDAM,975,SETS Order Book,CREST,2NQAQ,Settlement-Agent,Citibank N.A.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2ADAM,RDAM,975,Off Book trading,CREST,2NQAQ,Settlement-Agent,KAS Bank N.V.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2ADAM,RDAM,975,Off Book trading,Euroclear Bank,90023,Settlement-Agent,KAS Bank N.V.,False,
+Cooperatieve Rabobank U.A.,DG3RU1DBUFHT4ZF9WN62,REBANL2ADAM,RDAM,975,Off Book trading,DTCC,902,Settlement-Agent,KAS Bank N.V.,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCIGB21,CRED,957,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCIGB21,CRED,957,Off Book trading,Euroclear Bank,91932,Model-B,Pershing Securities Limited,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCISG21,CRSG,957,Off Book trading,DTCC,010,Settlement-Agent,Societe Generale,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCISG21,CRSG,957,Off Book trading,CREST,IHUAG,Settlement-Agent,Societe Generale,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCPCI21,CPCI,957,Off Book trading,Euroclear Bank,40571,Settlement-Agent,Pershing (Channel Islands) Limited,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCPCI21,CPCI,957,Off Book trading,DTCC,443,Settlement-Agent,Pershing (Channel Islands) Limited,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCPCI21,CPCI,957,Off Book trading,CREST,GKQAQ,Settlement-Agent,Pershing (Channel Islands) Limited,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCRBC21,CRBC,957,Off Book trading,CREST,11XHX,Settlement-Agent,Royal Bank of Canada (Channel Islands) Ltd,False,
+Credo Capital Limited,213800NP668Y18LISX10,CRCRBC21,CRBC,957,Off Book trading,DTCC,901,Settlement-Agent,Royal Bank of Canada (Channel Islands) Ltd,False,
+Daiwa Capital Markets Europe Limited,MIM2K09LFYD4IB163W58,DAILGB2LBIC,DAIW,180,Off Book trading,CREST,180,Self-Settlement,Daiwa Capital Markets Europe Limited,False,
+Daiwa Capital Markets Europe Limited,MIM2K09LFYD4IB163W58,DAILGB2LBIC,DAIW,180,Off Book trading,Euroclear Bank,97053,Self-Settlement,Daiwa Capital Markets Europe Limited,False,
+Daiwa Capital Markets Europe Limited,MIM2K09LFYD4IB163W58,DEFLGB22XXX,DAIS,180,Off Book trading,CREST,180,Self-Settlement,Daiwa Capital Markets Europe Limited,False,
+Daiwa Capital Markets Europe Limited,MIM2K09LFYD4IB163W58,DEFLGB22XXX,DAIS,180,Off Book trading,DTCC,647,Self-Settlement,Daiwa Capital Markets Europe Limited,False,
+Daiwa Capital Markets Europe Limited,MIM2K09LFYD4IB163W58,DEFLGB22XXX,DAIS,180,Off Book trading,Euroclear Bank,97053,Self-Settlement,Daiwa Capital Markets Europe Limited,False,
+Deutsche Bank AG London Branch,7LTWFZYICNSX8D621K86,DEUTGB2L,DEUT,201,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,94934,Self-Settlement,Deutsche Bank AG London Branch,False,"GEMM - IL GEMM - Fixed Interest, - UK Securities"
+Deutsche Bank AG London Branch,7LTWFZYICNSX8D621K86,DEUTGB2L,DEUT,201,SETS Order Book,CREST,201,Self-Settlement,Deutsche Bank AG London Branch,False,"GEMM - IL GEMM - Fixed Interest, - UK Securities"
+Deutsche Bank AG London Branch,7LTWFZYICNSX8D621K86,DEUTGB2L,DEUT,201,Off Book trading,CREST,201,Self-Settlement,Deutsche Bank AG London Branch,False,"GEMM - IL GEMM - Fixed Interest, - UK Securities"
+Deutsche Bank AG London Branch,7LTWFZYICNSX8D621K86,DEUTGB2L,DEUT,201,Off Book trading,CREST,7907,Self-Settlement,Deutsche Bank AG London Branch,False,"GEMM - IL GEMM - Fixed Interest, - UK Securities"
+Deutsche Bank AG London Branch,7LTWFZYICNSX8D621K86,DEUTGB2L,DEUT,201,Off Book trading,Euroclear Bank,94934,Self-Settlement,Deutsche Bank AG London Branch,False,"GEMM - IL GEMM - Fixed Interest, - UK Securities"
+Dinosaur Merchant Bank Limited,213800WDBCP28M4C9E37,DMBLGB2L,DMBL,480,Off Book trading,Euroclear Bank,14212,Settlement-Agent,Caceis Bank SA,False,
+Dinosaur Merchant Bank Limited,213800WDBCP28M4C9E37,DMBLGB2L,DMBL,480,Off Book trading,Euroclear Bank,25342,Settlement-Agent,Nomura International plc,False,
+Dinosaur Merchant Bank Limited,213800WDBCP28M4C9E37,DMBLGB2L,DMBL,480,Off Book trading,CREST,5TMAY,Settlement-Agent,Nomura International plc,False,
+Dinosaur Merchant Bank Limited,213800WDBCP28M4C9E37,DMBLGB2L,DMBL,480,Off Book trading,CREST,BH01,Settlement-Agent,Caceis Bank SA,False,
+Dinosaur Merchant Bank Limited,213800WDBCP28M4C9E37,DMBLGB2L,DMBL,480,Off Book trading,CREST,BH01,Settlement-Agent,Intesa Sanpaolo Securities Services,False,
+Dowgate Capital Limited,213800HKM3CQN56ZW855,DOWCGB2L,DOWC,586,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Dowgate Capital Limited,213800HKM3CQN56ZW855,DOWIGB2L,DOWI,586,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+Dowgate Capital Limited,213800HKM3CQN56ZW855,ELLIGB2L,ELIS,586,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Dowgate Wealth Limited,213800A6B77OYFMPJ124,DOWEGB22,DOWE,605,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Dowgate Wealth Limited,213800A6B77OYFMPJ124,DOWZGB22,DOWZ,605,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DREUNL21,DREU,465,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DREUNL21,DREU,465,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DREUNL21,DREU,465,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DREUNL21,DREU,465,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DREUNL21,DREU,465,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWEUN21,DRWE,465,SETS Order Book,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWEUN21,DRWE,465,Off Book trading,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWIEN21,DRWI,465,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWIEN21,DRWI,465,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWIEN21,DRWI,465,Off Book trading,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,
+DRW Europe B.V.,5493005Q760M4WJ8ZP07,DRWIEN21,DRWI,465,Off Book trading,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,
+DRW Global Markets Ltd,549300JVXT0U42UPXE36,GALNGB21,GALN,866,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK & International Securities
+DRW Global Markets Ltd,549300JVXT0U42UPXE36,GALNGB21,GALN,866,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK & International Securities
+DRW Global Markets Ltd,549300JVXT0U42UPXE36,GALNGB21,GALN,866,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK & International Securities
+DRW Global Markets Ltd,549300JVXT0U42UPXE36,GALNGB21,GALN,866,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK & International Securities
+DRW Global Markets Ltd,549300JVXT0U42UPXE36,GALNGB21,GALN,866,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK & International Securities
+Eclipse Futures (HK) Limited,213800KURY33VIX1BF32,ECFUHKH1,ECFU,898,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,Membership is limited to trading in central counterparty eligible securities on the order book only.  Any other business undertaken by the firm will be as a non-member.
+Eclipse Futures (HK) Limited,213800KURY33VIX1BF32,ECFUHKH1,ECFU,898,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,Membership is limited to trading in central counterparty eligible securities on the order book only.  Any other business undertaken by the firm will be as a non-member.
+Eclipse Futures (HK) Limited,213800KURY33VIX1BF32,ECFUHKH1,ECFU,898,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,Membership is limited to trading in central counterparty eligible securities on the order book only.  Any other business undertaken by the firm will be as a non-member.
+EFG Private Bank Limited,213800ZAC8VAGV4L2K61,EFGBGB2L,EFGB,52,Off Book trading,DTCC,2012,Self-Settlement,EFG Private Bank Limited,False,
+EFG Private Bank Limited,213800ZAC8VAGV4L2K61,EFGBGB2L,EFGB,52,Off Book trading,CREST,338,Self-Settlement,EFG Private Bank Limited,False,
+EFG Private Bank Limited,213800ZAC8VAGV4L2K61,EFGBGB2L,EFGB,52,Off Book trading,Euroclear Bank,92003,Self-Settlement,EFG Private Bank Limited,False,
+Embark Investment Services Limited,213800MW4LLNH95RPV75,EMISGB21,EMIS,596,Off Book trading,Euroclear Bank,22334,Settlement-Agent,FNZ (UK) Ltd,False,
+Embark Investment Services Limited,213800MW4LLNH95RPV75,EMISGB21,EMIS,596,Off Book trading,CREST,2AUAJ,Settlement-Agent,FNZ (UK) Ltd,False,
+Equiniti Financial Services Limited,213800BKA7N1LAEMZP97,EQFIGB21,EQFS,748,Off Book trading,CREST,1AQAQ,Self-Settlement,Equiniti Financial Services Limited,False,
+Evelyn Partners Investment Services Limited,LAFEQBG3V1MID89I5N78,SMIWGB2L,SWIS,467,Off Book trading,CREST,EL010,Self-Settlement,Evelyn Partners Investment Services Limited,False,
+Evelyn Partners Securities,213800CXWV2463YXD139,TILNGB21,TILN,97,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+Evelyn Partners Securities,213800CXWV2463YXD139,TILNGB21,TILN,97,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Evelyn Partners Securities,213800CXWV2463YXD139,TILNGB21,TILN,97,Off Book trading,CREST,GKQAQ,Model-B,Pershing Securities Limited,False,
+Evelyn Partners Securities,213800CXWV2463YXD139,TILNGB21SEI,TILS,97,Off Book trading,CREST,BH01,Settlement-Agent,SEI Investments (Europe) Ltd,False,
+Farley & Thompson LLP,213800ZXV9DIT92WY768,FATHGB21,FATH,240,Off Book trading,CREST,240,Self-Settlement,Farley & Thompson LLP,False,
+FinecoBank S.p.A.,549300L7YCATGO57ZE10,FISHITM1,FISS,404,SETS Order Book,CREST,404,Settlement-Agent,Citibank N.A.,False,
+FinecoBank S.p.A.,549300L7YCATGO57ZE10,FISHITM1,FISS,404,Off Book trading,CREST,404,Settlement-Agent,Citibank N.A.,False,
+Finovesta GmbH,529900GVB4E3JTDFHA88,FIVGDED1,FIVG,392,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Finovesta GmbH,529900GVB4E3JTDFHA88,FIVGDED1,FIVG,392,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Finovesta GmbH,529900GVB4E3JTDFHA88,FIVGDED1,FIVG,392,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Finovesta GmbH,529900GVB4E3JTDFHA88,FIVGDED1,FIVG,392,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+First Equity Limited,213800JR7T2ZUXPX8G49,FQSLGBKA,FELS,255,Off Book trading,CREST,842,Model-B,Jarvis Investment Management Limited,False,
+First Equity Limited,213800JR7T2ZUXPX8G49,FQSLGBKA,FELS,255,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+First Equity Limited,213800JR7T2ZUXPX8G49,FQSLGBKA,FELS,255,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+Fiske plc,213800Z5PKJOV7GWXE43,FISKGB21,FISK,256,Off Book trading,CREST,256,Self-Settlement,Fiske plc,False,
+Fiske plc,213800Z5PKJOV7GWXE43,FISKGB21,FISK,256,Off Book trading,Euroclear Bank,90450,Self-Settlement,Fiske plc,False,
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL21,FLOW,9,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL21,FLOW,9,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL21,FLOW,9,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL21,FLOW,9,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL21,FLOW,9,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL31,FLTR,9,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL31,FLTR,9,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL31,FLTR,9,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLTRNL31,FLTR,9,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLWETF01,FLWE,9,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLWETF01,FLWE,9,International Order Book,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLWETF01,FLWE,9,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLWETF01,FLWE,9,Off Book trading,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Flow Traders B.V.,549300CLJI9XDH12XV51,FLWETF01,FLWE,9,Off Book trading,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S027,FNZX,631,Off Book trading,Euroclear Bank,78009,Settlement-Agent,Bank of New York Mellon,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S027,FNZX,631,Off Book trading,CREST,BO01,Settlement-Agent,Bank of New York Mellon,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S033,FNZW,631,Off Book trading,Euroclear Bank,16104,Settlement-Agent,Abrdn Capital International Limited,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S033,FNZW,631,Off Book trading,Euroclear Bank,16106,Settlement-Agent,Abrdn Capital International Limited,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S033,FNZW,631,Off Book trading,CREST,5IKAV,Settlement-Agent,Abrdn Capital International Limited,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S039,FNZY,631,Off Book trading,CREST,9AUAL,Self-Settlement,FNZ Securities Limited,False,
+FNZ Securities Limited,213800T147F6FQL9PR52,FNZWGB2S039,FNZY,631,Off Book trading,CREST,HOUAG,Self-Settlement,FNZ Securities Limited,False,
+Forte Securities Limited,213800TE1VETDDTPKN12,FOSUGB21,FOSU,799,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+Freetrade Limited,254900V9T2MY7Y2UD074,FREEGB00,FREE,291,Off Book trading,CREST,MTQAN,Self-Settlement,Freetrade Limited,False,
+Freetrade Limited,254900V9T2MY7Y2UD074,FRETGB21,FRET,291,Off Book trading,CREST,2DUAG,Self-Settlement,Freetrade Limited,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2L,GFIS,732,Off Book trading,CREST,4TUAA,Settlement-Agent,BNP Paribas SA,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2L,GFIS,732,Off Book trading,DTCC,8321,Settlement-Agent,Bank of New York Mellon,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2L,GFIS,732,Off Book trading,CREST,HPUAG,Model-B,BGC Brokers L.P.,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LCSC,GFIC,732,Off Book trading,CREST,4TUAA,Settlement-Agent,BNP Paribas SA,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LCSC,GFIC,732,Off Book trading,CREST,7RUAG,Model-B,BGC Brokers L.P.,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LCSC,GFIC,732,Off Book trading,DTCC,8321,Settlement-Agent,Bank of New York Mellon,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LCSC,GFIC,732,Off Book trading,CREST,HPUAG,Model-B,BGC Brokers L.P.,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LPCE,GFIP,732,Off Book trading,DTCC,8321,Settlement-Agent,Bank of New York Mellon,False,
+GFI Securities Limited,GUNTJCA81C7IHNBGI392,GFIGGB2LPCE,GFIP,732,Off Book trading,CREST,HPUAG,Model-B,BGC Brokers L.P.,False,
+GHC Capital Markets Limited,213800HDA4AIN7OC3F87,GHCCGB21,GHCL,872,Off Book trading,CREST,872,Self-Settlement,GHC Capital Markets Limited,False,
+Global Investment Strategy UK Limited,2138002ZKYBVIEH1MI41,GLIRGB21,GESL,155,Off Book trading,CREST,0PMAY,Settlement-Agent,SIX SIS AG,False,
+Global Investment Strategy UK Limited,2138002ZKYBVIEH1MI41,GLIRGB21,GESL,155,Off Book trading,Euroclear Bank,78088,Settlement-Agent,ABN AMRO CLEARING BANK N.V.,False,
+Global Investment Strategy UK Limited,2138002ZKYBVIEH1MI41,GLIRGB21,GESL,155,Off Book trading,CREST,BH01,Settlement-Agent,ABN AMRO CLEARING BANK N.V.,False,
+Global Investment Strategy UK Limited,2138002ZKYBVIEH1MI41,GLIRGB22,GLIR,155,Off Book trading,CREST,HLUAG,Self-Settlement,Global Investment Strategy UK Limited,False,
+Global Investment Strategy UK Limited,2138002ZKYBVIEH1MI41,GLIRGB23,GISC,155,Off Book trading,CREST,HLUAG,Self-Settlement,Global Investment Strategy UK Limited,False,
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB21,GBHM,926,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB21,GBHM,926,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB21,GBHM,926,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB21,GBHM,926,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB21,GBHM,926,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB22,GOHM,926,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB22,GOHM,926,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Goldenberg Hehmeyer LLP,213800PT7RA4T829Q205,GOHLGB22,GOHM,926,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GOLDGBKA,GSII,306,Off Book trading,CREST,7929,Self-Settlement,Goldman Sachs International,False,
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSILGB2X,GSCO,303,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,94589,Self-Settlement,Goldman Sachs International,Yes,Market Maker - UK Securities
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSILGB2X,GSCO,303,International Order Book,Euroclear Bank,94589,Self-Settlement,Goldman Sachs International,Yes,Market Maker - UK Securities
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSILGB2X,GSCO,303,SETS Order Book,CREST,303,Self-Settlement,Goldman Sachs International,Yes,Market Maker - UK Securities
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSILGB2X,GSCO,303,Off Book trading,CREST,303,Self-Settlement,Goldman Sachs International,Yes,Market Maker - UK Securities
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSILGB2X,GSCO,303,Off Book trading,Euroclear Bank,94589,Self-Settlement,Goldman Sachs International,Yes,Market Maker - UK Securities
+Goldman Sachs International,W22LROWP2IHZNBB6K528,GSLNGB21,GSIL,313,Off Book trading,CREST,303,Self-Settlement,Goldman Sachs International,Yes,
+Goldman Sachs International Bank,N9FYJ29MC81JI74MJE92,GOSNGB2L,GSIB,515,Off Book trading,CREST,1LQAQ,Self-Settlement,Goldman Sachs International Bank,Yes,Ring-Fenced GEMM
+Goodbody Stockbrokers UC,635400IL71G3SXS7OE16,GDBSIE2D002,GOOD,432,SETS Order Book,CREST,432,Settlement-Agent,Pershing Securities International Limited,Yes,Market Maker - UK Securities
+Goodbody Stockbrokers UC,635400IL71G3SXS7OE16,GDBSIE2D002,GOOD,432,Off Book trading,CREST,432,Settlement-Agent,Pershing Securities International Limited,Yes,Market Maker - UK Securities
+Goodbody Stockbrokers UC,635400IL71G3SXS7OE16,GDBSIE2DBIC,GBOD,432,SETS Order Book,CREST,432,Settlement-Agent,Pershing Securities International Limited,False,
+Goodbody Stockbrokers UC,635400IL71G3SXS7OE16,GDBSIE2DBIC,GBOD,432,Off Book trading,CREST,432,Settlement-Agent,Pershing Securities International Limited,False,
+GPIM Limited,213800CADCL6VLMAOJ47,GPMMGB21,GPIM,426,Off Book trading,CREST,0EUAG,Model-B,Third Platform Services Limited,False,
+Graviton Research Capital (Singapore) Pte. Ltd.,254900N4UK2DCBCWWJ63,GRAVITONRES,GRAT,734,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,False,
+Halifax Share Dealing Limited,213800G9LNIZUTNGAG91,HSDLGB21,HSDL,66,Off Book trading,CREST,33X24,Self-Settlement,Halifax Share Dealing Limited,False,
+Hargreaves Lansdown Asset Management Limited,213800X9CPEFYEFVPS78,HARLGB21,HLSL,335,Off Book trading,CREST,335,Self-Settlement,Hargreaves Lansdown Asset Management Limited,False,
+Hargreaves Lansdown Asset Management Limited,213800X9CPEFYEFVPS78,HARLGB21NET,HNET,335,Off Book trading,CREST,335,Self-Settlement,Hargreaves Lansdown Asset Management Limited,False,
+Headlands Technologies Europe B.V.,549300QITVENB22PDI67,HETENL22,HETE,693,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Headlands Technologies Europe B.V.,549300QITVENB22PDI67,HETENL22,HETE,693,International Order Book,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Headlands Technologies Europe B.V.,549300QITVENB22PDI67,HETENL22,HETE,693,SETS Order Book,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+Headlands Technologies Europe B.V.,549300QITVENB22PDI67,HETENL22,HETE,693,Off Book trading,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Headlands Technologies Europe B.V.,549300QITVENB22PDI67,HETENL22,HETE,693,Off Book trading,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+Hedley & Company Stockbrokers Limited,213800MYVG5174S39D49,HEDLGB21,HEDL,343,Off Book trading,CREST,69XHN,Model-B,Platform Securities LLP,False,
+Hedley & Company Stockbrokers Limited,213800MYVG5174S39D49,HEDLGB21,HEDL,343,Off Book trading,Euroclear Bank,94276,Model-B,Platform Securities LLP,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,DTCC,0901,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,DTCC,2648,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,Euroclear Bank,44382,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,Euroclear Bank,47711,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,CREST,BKNY1,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Hobart Capital Markets LLP,213800O4WPTMQ9RQXQ63,HCRLGB21,HCML,8,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+HRTEU Limited,21380043Y95S8KQ3PA19,HRTUIE21,HRTU,638,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+HRTEU Limited,21380043Y95S8KQ3PA19,HRTUIE21,HRTU,638,International Order Book,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+HRTEU Limited,21380043Y95S8KQ3PA19,HRTUIE21,HRTU,638,SETS Order Book,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+HRTEU Limited,21380043Y95S8KQ3PA19,HRTUIE21,HRTU,638,Off Book trading,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+HRTEU Limited,21380043Y95S8KQ3PA19,HRTUIE21,HRTU,638,Off Book trading,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,GRMGGB2LBIC,GMGE,307,Order Book for Retail Bonds,CREST,HTQAN,Self-Settlement,HSBC Bank plc,Yes,GEMM - IL GEMM
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,GRMGGB2LBIC,GMGE,307,Off Book trading,CREST,HTQAN,Self-Settlement,HSBC Bank plc,Yes,GEMM - IL GEMM
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCAPGB2L,HSBC,118,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,90001,Self-Settlement,HSBC Bank plc,Yes,Market Maker - Fixed Interest - UK Securities
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCAPGB2L,HSBC,118,International Order Book,Euroclear Bank,90001,Self-Settlement,HSBC Bank plc,Yes,Market Maker - Fixed Interest - UK Securities
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCAPGB2L,HSBC,118,SETS Order Book,CREST,118,Self-Settlement,HSBC Bank plc,Yes,Market Maker - Fixed Interest - UK Securities
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCAPGB2L,HSBC,118,Off Book trading,CREST,0LQAQ,Self-Settlement,HSBC Bank plc,Yes,Market Maker - Fixed Interest - UK Securities
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCAPGB2L,HSBC,118,Off Book trading,Euroclear Bank,90001,Self-Settlement,HSBC Bank plc,Yes,Market Maker - Fixed Interest - UK Securities
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCIMGB2L,HBJC,225,SETS Order Book,CREST,118,Self-Settlement,HSBC Bank plc,False,
+HSBC Bank plc,MP6I5ZYZBEU3UXPYFY54,JCIMGB2L,HBJC,225,Off Book trading,CREST,118,Self-Settlement,HSBC Bank plc,False,
+Huatai Financial Holdings (Hong Kong) Limited,213800H1A9HWDO9TP892,HUFHHKH1,HUFH,527,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,27667,Settlement-Agent,BNP Paribas SA,Yes,
+Huatai Financial Holdings (Hong Kong) Limited,213800H1A9HWDO9TP892,HUFHHKH1,HUFH,527,International Order Book,Euroclear Bank,27667,Settlement-Agent,BNP Paribas SA,Yes,
+Huatai Financial Holdings (Hong Kong) Limited,213800H1A9HWDO9TP892,HUFHHKH1,HUFH,527,SETS Order Book,CREST,HPQAN,Settlement-Agent,BNP Paribas SA,Yes,
+Hubwise Securities Limited,213800KE9H3MPD4FG305,PASKGB21,PARK,262,Off Book trading,CREST,1FUAA,Self-Settlement,Hubwise Securities Limited,False,
+Hudson River Trading Europe Ltd,213800QDJQNB4546YV16,HRTEGB21,HUDR,285,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Hudson River Trading Europe Ltd,213800QDJQNB4546YV16,HRTEGB21,HUDR,285,International Order Book,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Hudson River Trading Europe Ltd,213800QDJQNB4546YV16,HRTEGB21,HUDR,285,SETS Order Book,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+Hudson River Trading Europe Ltd,213800QDJQNB4546YV16,HRTEGB21,HUDR,285,Off Book trading,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+Hudson River Trading Europe Ltd,213800QDJQNB4546YV16,HRTEGB21,HUDR,285,Off Book trading,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+Hybridan LLP,213800EF56WXNQPZDD73,HYLLGB21,SACN,93,Off Book trading,CREST,789,Settlement-Agent,Thomas Grant & Company Ltd,False,
+IBKR Financial Services AG,549300KKMY8XC2HPZ142,TMBECH21,THEZ,424,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,24955,Settlement-Agent,Euroclear Bank,Yes,Market Maker - UK Securities
+IBKR Financial Services AG,549300KKMY8XC2HPZ142,TMBECH21,THEZ,424,International Order Book,Euroclear Bank,24955,Settlement-Agent,Euroclear Bank,Yes,Market Maker - UK Securities
+IBKR Financial Services AG,549300KKMY8XC2HPZ142,TMBECH21,THEZ,424,SETS Order Book,CREST,NKKAV,Self-Settlement,IBKR Financial Services AG,Yes,Market Maker - UK Securities
+IBKR Financial Services AG,549300KKMY8XC2HPZ142,TMBECH21,THEZ,424,Off Book trading,Euroclear Bank,24955,Settlement-Agent,Euroclear Bank,Yes,Market Maker - UK Securities
+IBKR Financial Services AG,549300KKMY8XC2HPZ142,TMBECH21,THEZ,424,Off Book trading,CREST,NKKAV,Self-Settlement,IBKR Financial Services AG,Yes,Market Maker - UK Securities
+ICBC Standard Bank Plc,F01VVKN4DRF2NWKGQ283,SBLLGB2L,STDL,448,Off Book trading,CREST,7IQAQ,Settlement-Agent,BNP Paribas SA,False,
+ICBC Standard Bank Plc,F01VVKN4DRF2NWKGQ283,SBLLGB2L,STDL,448,Off Book trading,Euroclear Bank,91448,Self-Settlement,ICBC Standard Bank Plc,False,
+iDealing.com Limited,2138007ZL8V6CFDRD656,IDEAGB21,IDEA,282,SETS Order Book,CREST,6GKAV,Self-Settlement,iDealing.com Limited,False,
+iDealing.com Limited,2138007ZL8V6CFDRD656,IDEAGB21,IDEA,282,Off Book trading,CREST,282,Self-Settlement,iDealing.com Limited,False,
+iDealing.com Limited,2138007ZL8V6CFDRD656,IDEAGB21,IDEA,282,Off Book trading,CREST,6GKAV,Self-Settlement,iDealing.com Limited,False,
+IG Markets Limited,21380017XKSVQ3LC3V75,IGMLGB21,IGIM,845,Off Book trading,CREST,3GUAG,Settlement-Agent,Citibank N.A.,False,
+IG Trading & Investments Limited,213800M67NZD9TEZOU62,IGTIGB21,IGTI,655,Off Book trading,CREST,4CMAY,Settlement-Agent,Citibank N.A.,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Self-Settlement,Instinet Europe Limited,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,International Order Book,Euroclear Bank,20633,Self-Settlement,Instinet Europe Limited,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,SETS Order Book,CREST,382,Self-Settlement,Instinet Europe Limited,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,SETS Order Book,CREST,382/CLEARNOM,Self-Settlement,Instinet Europe Limited,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,Off Book trading,Euroclear Bank,20633,Self-Settlement,Instinet Europe Limited,False,
+Instinet Europe Limited,213800MXAKR2LA1VBM44,INETGB21,INST,382,Off Book trading,CREST,382,Self-Settlement,Instinet Europe Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,10580,Settlement-Agent,Euroclear Bank,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,International Order Book,Euroclear Bank,10580,Settlement-Agent,Euroclear Bank,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,SETS Order Book,CREST,966,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,Off Book trading,Euroclear Bank,10580,Settlement-Agent,Euroclear Bank,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,Off Book trading,CREST,966,Settlement-Agent,Euroclear Bank,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21001,TIMH,966,Off Book trading,CREST,966,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21002,IBUK,966,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,10580,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21002,IBUK,966,SETS Order Book,CREST,IMUAA,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21002,IBUK,966,Off Book trading,CREST,IMUAA,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21003,IBNC,966,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,10581,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21003,IBNC,966,SETS Order Book,CREST,966,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21003,IBNC,966,Off Book trading,Euroclear Bank,10581,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21003,IBNC,966,Off Book trading,CREST,966,Self-Settlement,Interactive Brokers (UK) Limited,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21004,IBCE,966,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,10580,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21004,IBCE,966,International Order Book,Euroclear Bank,10580,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21004,IBCE,966,SETS Order Book,CREST,6DKAV,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21004,IBCE,966,Off Book trading,Euroclear Bank,10580,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Brokers (UK) Limited,549300GVM9BQWJXPI223,TIMBGB21004,IBCE,966,Off Book trading,CREST,6DKAV,Settlement-Agent,Interactive Brokers LLC,False,
+Interactive Investor Services Limited,TKB215ALODPWJCGKWC47,GAEKGB21,GLIS,277,Off Book trading,CREST,277,Self-Settlement,Interactive Investor Services Limited,False,
+Investec Bank Plc,84S0VF8TSMH0T6D4K848,IHCSGB21002,INV.,331,Order Book for Retail Bonds,CREST,331,Self-Settlement,Investec Bank Plc,Yes,Market Maker - ORB - UK Securities
+Investec Bank Plc,84S0VF8TSMH0T6D4K848,IHCSGB21002,INV.,331,SETS Order Book,CREST,331,Self-Settlement,Investec Bank Plc,Yes,Market Maker - ORB - UK Securities
+Investec Bank Plc,84S0VF8TSMH0T6D4K848,IHCSGB21002,INV.,331,Off Book trading,CREST,331,Self-Settlement,Investec Bank Plc,Yes,Market Maker - ORB - UK Securities
+Investec Bank Plc,84S0VF8TSMH0T6D4K848,IVESGB2L,INSB,815,Off Book trading,CREST,815,Self-Settlement,Investec Bank Plc,False,
+Investec Wealth & Investment (Channel Islands) Limited,213800WUEN2LZPDDS554,CSHPGB21GSY,IWIG,676,Off Book trading,CREST,FMUAA,Self-Settlement,Investec Wealth & Investment (Channel Islands) Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB21TSY,ZBRA,683,Off Book trading,CREST,ADUAA,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB2L,CARR,762,Order Book for Retail Bonds,CREST,762,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB2L,CARR,762,SETS Order Book,CREST,762,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB2L,CARR,762,Off Book trading,CREST,762,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB2L,CARR,762,Off Book trading,DTCC,901,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investec Wealth & Investment Limited,213800RJBFS4M7AV8W97,CSHPGB2L,CARR,762,Off Book trading,Euroclear Bank,98228,Self-Settlement,Investec Wealth & Investment Limited,False,
+Investment Funds Direct Limited,2138008K7KVOA2SVGD38,IFUDGBKA,IFUD,182,Off Book trading,CREST,JEMAY,Self-Settlement,Investment Funds Direct Limited,False,
+ITI Capital Limited,5493000WY2VYSE5KOS46,OPDEGB21,OPDT,558,Off Book trading,CREST,56XKK,Settlement-Agent,Euroclear Bank,False,
+ITI Capital Limited,5493000WY2VYSE5KOS46,OPDEGB21,OPDT,558,Off Book trading,CREST,6DKAV,Settlement-Agent,Interactive Brokers LLC,False,
+James Brearley & Sons Limited,213800ABZ1O2Q65O2834,JABSGB21,BREJ,91,Off Book trading,CREST,091,Self-Settlement,James Brearley & Sons Limited,False,
+James Sharp & Co LLP,213800C7D4235MPY6384,JAMSGB21,SHAP,671,Off Book trading,CREST,671,Self-Settlement,James Sharp & Co LLP,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JASFGB21,JNST,574,Off Book trading,CREST,0MQAQ,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JASFGB21,JNST,574,Off Book trading,Euroclear Bank,16748,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JASFGB21,JNST,574,Off Book trading,DTCC,2366,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JASFGB21,JNST,574,Off Book trading,CREST,4NQAQ,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFCLNT1,JSFC,574,Off Book trading,Euroclear Bank,16748,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFCLNT1,JSFC,574,Off Book trading,CREST,8SUAG,Settlement-Agent,Barclays Capital Securities Limited,False,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFINANCIAL,JANM,574,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,17679,Settlement-Agent,Merrill Lynch International,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFINANCIAL,JANM,574,International Order Book,Euroclear Bank,17679,Settlement-Agent,Merrill Lynch International,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFINANCIAL,JANM,574,SETS Order Book,CREST,7ACBA,Settlement-Agent,Merrill Lynch International,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFINANCIAL,JANM,574,Off Book trading,Euroclear Bank,17679,Settlement-Agent,Merrill Lynch International,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFINANCIAL,JANM,574,Off Book trading,CREST,7ACBA,Settlement-Agent,Merrill Lynch International,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFMBID2,JANE,574,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFMBID2,JANE,574,International Order Book,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFMBID2,JANE,574,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFMBID2,JANE,574,Off Book trading,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,
+Jane Street Financial Limited,549300ZHEHX8M31RP142,JSFMBID2,JANE,574,Off Book trading,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,
+Jarvis Investment Management Limited,213800HBDYZM8J5CHJ19,JAIMGB21,JAIM,842,Off Book trading,Euroclear Bank,67477,Settlement-Agent,"Caceis Bank, UK Branch",False,
+Jarvis Investment Management Limited,213800HBDYZM8J5CHJ19,JAIMGB21,JAIM,842,Off Book trading,CREST,842,Self-Settlement,Jarvis Investment Management Limited,False,
+J & E Davy (UK) Limited,213800ZJUBBQUVMNW432,DAVEIE21,DAVY,189,SETS Order Book,CREST,189,Self-Settlement,J & E Davy,Yes,Market Maker - UK Securities
+J & E Davy (UK) Limited,213800ZJUBBQUVMNW432,DAVEIE21,DAVY,189,Off Book trading,CREST,189,Self-Settlement,J & E Davy,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,International Order Book,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Order Book for Retail Bonds,CREST,393,Self-Settlement,Jefferies International Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,DTCC,019,Self-Settlement,Jefferies International Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,CREST,0DUAG,Settlement-Agent,Citibank N.A.,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,CREST,382,Settlement-Agent,Instinet Europe Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,CREST,393,Self-Settlement,Jefferies International Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,CREST,6RUAG,Settlement-Agent,Citibank N.A.,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGB2X,JEFF,393,Off Book trading,Euroclear Bank,97618,Self-Settlement,Jefferies International Limited,Yes,Market Maker - UK Securities
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGBFI,JEFI,393,Order Book for Retail Bonds,CREST,5DQAQ,Self-Settlement,Jefferies International Limited,Yes,
+Jefferies International Limited,S5THZMDUJCTQZBTRVI98,JEFFGBFI,JEFI,393,Off Book trading,CREST,5DQAQ,Self-Settlement,Jefferies International Limited,Yes,
+J.M. Finn & Co.Ltd,2138005952US1BK73L88,FNNNGB21,FINN,252,International Order Book,Euroclear Bank,14876,Settlement-Agent,HSBC Bank plc,False,
+J.M. Finn & Co.Ltd,2138005952US1BK73L88,FNNNGB21,FINN,252,SETS Order Book,CREST,252,Self-Settlement,J.M. Finn & Co.Ltd,False,
+J.M. Finn & Co.Ltd,2138005952US1BK73L88,FNNNGB21,FINN,252,Off Book trading,DTCC,010,Settlement-Agent,HSBC Bank plc,False,
+J.M. Finn & Co.Ltd,2138005952US1BK73L88,FNNNGB21,FINN,252,Off Book trading,Euroclear Bank,14876,Settlement-Agent,HSBC Bank plc,False,
+J.M. Finn & Co.Ltd,2138005952US1BK73L88,FNNNGB21,FINN,252,Off Book trading,CREST,252,Self-Settlement,J.M. Finn & Co.Ltd,False,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,92832,Settlement-Agent,BNP Paribas SA,Yes,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,International Order Book,Euroclear Bank,92832,Settlement-Agent,BNP Paribas SA,Yes,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,SETS Order Book,CREST,5KQAQ,Settlement-Agent,BNP Paribas SA,Yes,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,Off Book trading,CREST,5KQAQ,Settlement-Agent,BNP Paribas SA,Yes,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,Off Book trading,Euroclear Bank,92814,Settlement-Agent,BNP Paribas SA,Yes,
+"Joh. Berenberg, Gossler & Co. KG",529900UC2OD7II24Z667,BEGODEHH,JBER,791,Off Book trading,Euroclear Bank,92832,Settlement-Agent,BNP Paribas SA,Yes,
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20411,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,International Order Book,Euroclear Bank,20411,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,SETS Order Book,CREST,784,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,Off Book trading,Euroclear Bank,20411,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,Off Book trading,DTCC,5202,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,Off Book trading,CREST,784,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+J.P. Morgan Securities plc,K6Q0W1PS1L1O4IQL9C32,JPMSGB2L,JPMS,784,Off Book trading,CREST,8505,Self-Settlement,J.P. Morgan Securities plc,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENL21,JUTE,472,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENL21,JUTE,472,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENL21,JUTE,472,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENL21,JUTE,472,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENL21,JUTE,472,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENLML,JUML,472,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENLML,JUML,472,International Order Book,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENLML,JUML,472,SETS Order Book,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENLML,JUML,472,Off Book trading,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,False,
+Jump Trading Europe B.V.,549300HFXRW8BZRK3J17,JUTENLML,JUML,472,Off Book trading,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,False,
+Kepler Cheuvreux,9695005EOZG9X8IRJD84,JBBRFRPP,JBBR,969,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,13058,Settlement-Agent,Caceis Bank SA,False,
+Kepler Cheuvreux,9695005EOZG9X8IRJD84,JBBRFRPP,JBBR,969,International Order Book,Euroclear Bank,13058,Settlement-Agent,Caceis Bank SA,False,
+Kepler Cheuvreux,9695005EOZG9X8IRJD84,JBBRFRPP,JBBR,969,SETS Order Book,CREST,COMAY,Settlement-Agent,Caceis Bank SA,False,
+Kepler Cheuvreux,9695005EOZG9X8IRJD84,JBBRFRPP,JBBR,969,Off Book trading,Euroclear Bank,13058,Settlement-Agent,Caceis Bank SA,False,
+Kepler Cheuvreux,9695005EOZG9X8IRJD84,JBBRFRPP,JBBR,969,Off Book trading,CREST,COMAY,Settlement-Agent,Caceis Bank SA,False,
+Killik & Co LLP,213800ZMQ7HGA4B69H23,KILIGB21RBC,KRBC,414,Off Book trading,CREST,00XJN,Settlement-Agent,Royal Bank of Canada (Channel Islands) Ltd,False,
+Killik & Co LLP,213800ZMQ7HGA4B69H23,KILIGB21XXX,KKLK,420,Off Book trading,CREST,6JUAG,Model-B,Platform Securities LLP,False,
+Kyte Broking Limited,1ZU7M6R6N6PXYJ6V0C83,KYBRGB21,KYBR,402,Off Book trading,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,False,
+Kyte Broking Limited,1ZU7M6R6N6PXYJ6V0C83,KYBRGB21,KYBR,402,Off Book trading,CREST,382,Settlement-Agent,Instinet Europe Limited,False,
+Kyte Broking Limited,1ZU7M6R6N6PXYJ6V0C83,KYBRGB21,KYBR,402,Off Book trading,CREST,KBUAG,Settlement-Agent,Global Prime Partners Ltd,False,
+LGT Wealth Management UK LLP,213800LGMAJK7USM1M98,VEWLGBK1,VEWL,166,Off Book trading,CREST,OMMAY,Self-Settlement,LGT Vestra LLP,False,
+Liberum Wealth Limited,21380086HP4FCV669J97,LIWEGGB1,LIWE,395,Off Book trading,CREST,HMUAG,Self-Settlement,Liberum Wealth Limited,False,
+Linear Investments Limited,213800GNOS9QQ31DCK54,LIIVGB21,LIIV,65,Off Book trading,Euroclear Bank,25342,Settlement-Agent,Nomura International plc,False,
+Linear Investments Limited,213800GNOS9QQ31DCK54,LIIVGB21,LIIV,65,Off Book trading,CREST,5TMAY,Settlement-Agent,Nomura International plc,False,
+Linear Investments Limited,213800GNOS9QQ31DCK54,LIIVGB21,LIIV,65,Off Book trading,DTCC,7584,Settlement-Agent,Nomura International plc,False,
+Liquidnet Europe Ltd,213800ZIRB79BE5XQM68,LNELGB21,LNEL,492,SETS Order Book,CREST,JOUAG,Settlement-Agent,BNP Paribas SA,False,
+Liquidnet Europe Ltd,213800ZIRB79BE5XQM68,LNELGB21,LNEL,492,Off Book trading,Euroclear Bank,50730,Settlement-Agent,BNP Paribas SA,False,
+Liquidnet Europe Ltd,213800ZIRB79BE5XQM68,LNELGB21,LNEL,492,Off Book trading,CREST,JOUAG,Settlement-Agent,BNP Paribas SA,False,
+Lloyds Bank Corporate Markets Plc,213800MBWEIJDM5CU638,LLCMGB22,LLCM,405,Off Book trading,CREST,LLBCM,Self-Settlement,Lloyds Bank Corporate Markets Plc,False,
+Lloyds Bank plc,H7FNTJ4851HG0EXQ1Z70,LOYDGB22TSY,LOYD,505,Off Book trading,CREST,7292,Self-Settlement,Lloyds Bank plc,Yes,GEMM - IL GEMM
+Logic Investments Ltd,213800FBJFAQI44VVQ54,LOIEGB21,LOGI,553,Off Book trading,Euroclear Bank,13985,Settlement-Agent,HSBC Bank plc,False,
+Logic Investments Ltd,213800FBJFAQI44VVQ54,LOIEGB21,LOGI,553,Off Book trading,CREST,5676,Settlement-Agent,HSBC Bank plc,False,
+Logic Investments Ltd,213800FBJFAQI44VVQ54,LOIEGB21,LOGI,553,Off Book trading,CREST,BH01,Settlement-Agent,HSBC Bank plc,False,
+Logic Investments Ltd,213800FBJFAQI44VVQ54,LOIEGB21,LOGI,553,Off Book trading,CREST,ONKAV,Settlement-Agent,HSBC Bank plc,False,
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB21,MACQ,468,Off Book trading,Euroclear Bank,10574,Self-Settlement,Macquarie Capital (Europe) Limited,False,Market Maker - UK Securities
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB21,MACQ,468,Off Book trading,CREST,1PQAN,Settlement-Agent,BNP Paribas SA,False,Market Maker - UK Securities
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB21,MACQ,468,Off Book trading,CREST,601,Settlement-Agent,Pershing Securities Limited,False,Market Maker - UK Securities
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB21,MACQ,468,Off Book trading,DTCC,908,Self-Settlement,Macquarie Capital (Europe) Limited,False,Market Maker - UK Securities
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB22,MAQB,468,Off Book trading,CREST,1PQAN,Settlement-Agent,BNP Paribas SA,False,
+Macquarie Capital (Europe) Limited,549300GX4FPMFF91RJ37,MAPUGB22,MAQB,468,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Marex Financial,5493003EETVWYSIJ5A20,MARXGB2L,MREX,646,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,59367,Settlement-Agent,BNP Paribas SA,Yes,
+Marex Financial,5493003EETVWYSIJ5A20,MARXGB2L,MREX,646,SETS Order Book,CREST,1QUAG,Settlement-Agent,BNP Paribas SA,Yes,
+Marex Financial,5493003EETVWYSIJ5A20,MARXGB2L,MREX,646,Off Book trading,CREST,1QUAG,Settlement-Agent,BNP Paribas SA,Yes,
+Marex Financial,5493003EETVWYSIJ5A20,MARXGB2L,MREX,646,Off Book trading,Euroclear Bank,59367,Settlement-Agent,BNP Paribas SA,Yes,
+Mariana UFP LLP,213800YRA1J9QFBMU217,MCMKGB21,MCMK,570,Off Book trading,Euroclear Bank,94763,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Mariana UFP LLP,213800YRA1J9QFBMU217,MCMKGB21,MCMK,570,Off Book trading,CREST,BH01,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Market Wizards B.V.,549300HNOCFVJN7H7J64,MARWNL21,MARK,963,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Market Wizards B.V.,549300HNOCFVJN7H7J64,MARWNL21,MARK,963,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Market Wizards B.V.,549300HNOCFVJN7H7J64,MARWNL21,MARK,963,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Market Wizards B.V.,549300HNOCFVJN7H7J64,MARWNL21,MARK,963,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MEGLGB21,MLG.,821,Off Book trading,CREST,686,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MERLGB2L,MERL,686,Off Book trading,CREST,686,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLILGB2L,MLIL,686,Off Book trading,CREST,MLI,Self-Settlement,Merrill Lynch International,False,GEMM
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLILGB3LELE,MLIE,686,Off Book trading,DTCC,161,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLILGB3LELE,MLIE,686,Off Book trading,CREST,686,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLILGB3LELE,MLIE,686,Off Book trading,Euroclear Bank,92835,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLISGB21,MLSL,686,Off Book trading,CREST,19X70,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,MLISGB21,MLSL,686,Off Book trading,CREST,JKMAY,Self-Settlement,Merrill Lynch International,False,
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,92835,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,International Order Book,Euroclear Bank,92835,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,SETS Order Book,CREST,686,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,Off Book trading,DTCC,161,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,Off Book trading,CREST,686,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+Merrill Lynch International,GGDZP1UYGU9STUHRDP48,SNCSGB2LBIC,MLSB,686,Off Book trading,Euroclear Bank,92835,Self-Settlement,Merrill Lynch International,Yes,Market Maker - Fixed Interest - UK Securities
+MHA Caves Wealth Limited,213800JES38XOD9PVP02,CAVSGB21,CAVE,139,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Mizuho International plc,213800HZ54TG54H2KV03,IBJIGB2L,IBJ,380,Off Book trading,CREST,7794,Settlement-Agent,BNP Paribas SA,False,
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,97499,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,International Order Book,Euroclear Bank,97499,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,SETS Order Book,CREST,50703,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,Off Book trading,CREST,50703,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,Off Book trading,DTCC,7309,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,Off Book trading,CREST,85561,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Morgan Stanley & Co International PLC,4PQUHN3JPFGFNF3BB653,MSLNGB2X,MSIL,699,Off Book trading,Euroclear Bank,97499,Self-Settlement,Morgan Stanley & Co International PLC,Yes,GEMM - IL GEMM
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,16139,Self-Settlement,Natixis,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,International Order Book,Euroclear Bank,16139,Self-Settlement,Natixis,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,SETS Order Book,CREST,KCMAY,Settlement-Agent,BNP Paribas SA,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,Off Book trading,DTCC,00010,Settlement-Agent,BNP Paribas SA,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,Off Book trading,Euroclear Bank,16139,Settlement-Agent,BNP Paribas SA,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,CCBPFRPP,NATX,12,Off Book trading,CREST,KCMAY,Settlement-Agent,BNP Paribas SA,Yes,
+Natixis,KX1WK48MPD4Y2NCUIZ63,NBPLGB21,NBPL,12,SETS Order Book,CREST,BBMAY,Settlement-Agent,BNP Paribas SA,False,
+Natixis,KX1WK48MPD4Y2NCUIZ63,NBPLGB21,NBPL,12,Off Book trading,DTCC,00010,Settlement-Agent,BNP Paribas SA,False,
+Natixis,KX1WK48MPD4Y2NCUIZ63,NBPLGB21,NBPL,12,Off Book trading,CREST,BBMAY,Settlement-Agent,BNP Paribas SA,False,
+NatWest Markets Plc,RR3QWICWWIPCS8A4S074,RBOSGB2REQT,RBSE,1,Off Book trading,Euroclear Bank,13362,Self-Settlement,NatWest Markets Plc,False,Market Maker - ORB - UK Securities
+NatWest Markets Plc,RR3QWICWWIPCS8A4S074,RBOSGB2REQT,RBSE,1,Off Book trading,CREST,8PMAY,Self-Settlement,NatWest Markets Plc,False,Market Maker - ORB - UK Securities
+NatWest Markets Plc,RR3QWICWWIPCS8A4S074,RBOSGB2RTCM,RBOS,772,Off Book trading,CREST,7722,Self-Settlement,NatWest Markets Plc,False,GEMM - IL GEMM
+Nomura International plc,DGQCSV2PHVF7I2743539,NOMAGB2LBIC,NMRA,534,Off Book trading,DTCC,2097,Self-Settlement,Nomura International plc,False,GEMM - IL GEMM - UK Securities
+Nomura International plc,DGQCSV2PHVF7I2743539,NOMAGB2LBIC,NMRA,534,Off Book trading,CREST,53401,Self-Settlement,Nomura International plc,False,GEMM - IL GEMM - UK Securities
+Nomura International plc,DGQCSV2PHVF7I2743539,NOMAGB2LBIC,NMRA,534,Off Book trading,Euroclear Bank,90997,Self-Settlement,Nomura International plc,False,GEMM - IL GEMM - UK Securities
+Northern Trust Securities LLP,549300EF8AZLRG0UC208,AVGLGBK1,NTSL,911,Off Book trading,CREST,DSUAA,Settlement-Agent,BNP Paribas SA,False,
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,47788,Self-Settlement,Numis Securities Limited,Yes,Market Maker - ORB - UK Securities
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,Order Book for Retail Bonds,CREST,600,Self-Settlement,Numis Securities Limited,Yes,Market Maker - ORB - UK Securities
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,SETS Order Book,CREST,600,Self-Settlement,Numis Securities Limited,Yes,Market Maker - ORB - UK Securities
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,Off Book trading,DTCC,2787,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - ORB - UK Securities
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,Off Book trading,Euroclear Bank,47788,Self-Settlement,Numis Securities Limited,Yes,Market Maker - ORB - UK Securities
+Numis Securities Limited,213800P3F4RT97WDSX47,RAZHGB2LBIC,NUMS,600,Off Book trading,CREST,600,Self-Settlement,Numis Securities Limited,Yes,Market Maker - ORB - UK Securities
+Oberon Investments Limited,213800GJGGCDXZXY5811,BADNGB21,BARN,70,Off Book trading,CREST,070,Self-Settlement,M D Barnard & Co Ltd,False,
+Oberon Investments Limited,213800GJGGCDXZXY5811,BADNGB22,OBER,70,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Old Mission Europe LLP,549300K7YFYNV2QW2M07,OMELGB21,OMEL,239,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,Yes,
+Old Mission Europe LLP,549300K7YFYNV2QW2M07,OMELGB21,OMEL,239,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,Yes,
+Old Mission Europe LLP,549300K7YFYNV2QW2M07,OMELGB21,OMEL,239,Off Book trading,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,Yes,
+Olive Tree Capital Markets Limited,213800PZWYFKIOAGQY35,ATONCY21,ATON,244,Off Book trading,Euroclear Bank,16763,Settlement-Agent,HSBC Bank plc,False,
+Olive Tree Capital Markets Limited,213800PZWYFKIOAGQY35,ATONCY21,ATON,244,Off Book trading,DTCC,8396,Settlement-Agent,HSBC Bank plc,False,
+Olive Tree Capital Markets Limited,213800PZWYFKIOAGQY35,ATONCY21,ATON,244,Off Book trading,CREST,BH01,Settlement-Agent,HSBC Bank plc,False,
+Optiva Securities Limited,213800YXL6OGJYA74L69,OPTV2022,OPTS,143,Off Book trading,CREST,091,Settlement-Agent,James Brearley & Sons Limited,False,
+Optiver V.O.F.,7245009KRYSAYB2QCC29,OPTVNL21,OPTV,368,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Optiver V.O.F.,7245009KRYSAYB2QCC29,OPTVNL21,OPTV,368,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Optiver V.O.F.,7245009KRYSAYB2QCC29,OPTVNL21,OPTV,368,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Optiver V.O.F.,7245009KRYSAYB2QCC29,OPTVNL21,OPTV,368,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Panmure Liberum Capital Limited,213800U6KUF87S1KCC03,LCAPGB21,LIBC,87,SETS Order Book,CREST,7BUAG,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Panmure Liberum Capital Limited,213800U6KUF87S1KCC03,LCAPGB21,LIBC,87,Off Book trading,Euroclear Bank,29069,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Panmure Liberum Capital Limited,213800U6KUF87S1KCC03,LCAPGB21,LIBC,87,Off Book trading,CREST,7BUAG,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Panmure Liberum Capital Limited,213800U6KUF87S1KCC03,RINFGB21,LBRM,87,Off Book trading,Euroclear Bank,42767,Settlement-Agent,BNP Paribas SA,False,
+Panmure Liberum Capital Limited,213800U6KUF87S1KCC03,RINFGB21,LBRM,87,Off Book trading,CREST,7BUAG,Settlement-Agent,BNP Paribas SA,False,
+Panmure Liberum Limited,213800GM8RB7MS4L3Z24,PMURGB2L,PMUR,300,SETS Order Book,CREST,83801,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Panmure Liberum Limited,213800GM8RB7MS4L3Z24,PMURGB2L,PMUR,300,Off Book trading,CREST,83801,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,15001,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - ORB - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,International Order Book,Euroclear Bank,15001,Self-Settlement,Peel Hunt LLP,Yes,Market Maker - ORB - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,Order Book for Retail Bonds,CREST,871,Self-Settlement,Peel Hunt LLP,Yes,Market Maker - ORB - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,SETS Order Book,CREST,871,Self-Settlement,Peel Hunt LLP,Yes,Market Maker - ORB - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,Off Book trading,Euroclear Bank,15001,Self-Settlement,Peel Hunt LLP,Yes,Market Maker - ORB - UK Securities
+Peel Hunt LLP,5493007DWN0R4YBM4C84,PLHCGB3LBIC,PEEL,871,Off Book trading,CREST,871,Self-Settlement,Peel Hunt LLP,Yes,Market Maker - ORB - UK Securities
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERHGB21,PSSL,601,International Order Book,Euroclear Bank,91932,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERHGB21,PSSL,601,SETS Order Book,CREST,601,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERHGB21,PSSL,601,Off Book trading,CREST,601,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERHGB21,PSSL,601,Off Book trading,Euroclear Bank,91932,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERLGB2L003,PSSG,601,Off Book trading,Euroclear Bank,14145,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERLGB2L003,PSSG,601,Off Book trading,CREST,601,Self-Settlement,Pershing Securities Limited,False,
+Pershing Securities Limited,549300NC3GURN0AEZU06,PERLGB2L005,PSSY,601,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Peterhouse Capital Limited,213800IXMLB94ZODQ267,RSCB1234,RSCB,223,Off Book trading,CREST,789,Settlement-Agent,Thomas Grant & Company Ltd,False,
+Pilling & Co Stockbrokers Ltd,213800UGICKWKBKUBX07,PILLGB21,PLLC,591,Off Book trading,CREST,591,Self-Settlement,Pilling & Co Stockbrokers Ltd,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,DRWRGB21,PLAT,100,Order Book for Retail Bonds,CREST,69XHN,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,DRWRGB21,PLAT,100,SETS Order Book,CREST,69XHN,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,DRWRGB21,PLAT,100,Off Book trading,DTCC,010,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,DRWRGB21,PLAT,100,Off Book trading,CREST,69XHN,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,DRWRGB21,PLAT,100,Off Book trading,Euroclear Bank,94276,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FIDIGB22,PFIL,100,Off Book trading,CREST,IFUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISOJE22,FISO,100,Order Book for Retail Bonds,CREST,0KUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISOJE22,FISO,100,SETS Order Book,CREST,0KUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISOJE22,FISO,100,Off Book trading,CREST,0KUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISWGB22,FISW,100,Order Book for Retail Bonds,CREST,6JUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISWGB22,FISW,100,SETS Order Book,CREST,6JUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,FISWGB22,FISW,100,Off Book trading,CREST,6JUAG,Self-Settlement,Platform Securities LLP,False,
+Platform Securities LLP,213800DGZGQGCLREAY39,PLSIJEJ1,PLAI,100,Off Book trading,CREST,3CUAA,Self-Settlement,Platform Securities LLP,False,
+Qube Research & Technologies Limited,549300DCU7KOL83B3B08,QRTUK001,QRTE,735,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,False,
+Qube Research & Technologies Limited,549300DCU7KOL83B3B08,QRTUK001,QRTE,735,International Order Book,Euroclear Bank,20633,Settlement-Agent,Instinet Europe Limited,False,
+Qube Research & Technologies Limited,549300DCU7KOL83B3B08,QRTUK001,QRTE,735,SETS Order Book,CREST,382,Settlement-Agent,Instinet Europe Limited,False,
+Quilter Cheviot Ltd,213800QCI7X27H677R39,CHEPGB21,CHEV,77,Order Book for Retail Bonds,CREST,077,Self-Settlement,Quilter Cheviot Ltd,False,
+Quilter Cheviot Ltd,213800QCI7X27H677R39,CHEPGB21,CHEV,77,SETS Order Book,CREST,077,Self-Settlement,Quilter Cheviot Ltd,False,
+Quilter Cheviot Ltd,213800QCI7X27H677R39,CHEPGB21,CHEV,77,Off Book trading,CREST,077,Self-Settlement,Quilter Cheviot Ltd,False,
+Radix Trading Europe B.V.,724500VH9JWY29MXNL28,RATUNL21,RTEB,417,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Radix Trading Europe B.V.,724500VH9JWY29MXNL28,RATUNL21,RTEB,417,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Radix Trading Europe B.V.,724500VH9JWY29MXNL28,RATUNL21,RTEB,417,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Radix Trading Europe B.V.,724500VH9JWY29MXNL28,RATUNL21,RTEB,417,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Radix Trading Europe B.V.,724500VH9JWY29MXNL28,RATUNL21,RTEB,417,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Ravenscroft (CI) Limited,213800K6VJ62SKV9VL48,CECIGGS1,RAVE,876,Order Book for Retail Bonds,CREST,9COAD,Self-Settlement,Ravenscroft (CI) Limited,False,
+Ravenscroft (CI) Limited,213800K6VJ62SKV9VL48,CECIGGS1,RAVE,876,SETS Order Book,CREST,9COAD,Self-Settlement,Ravenscroft (CI) Limited,False,
+Ravenscroft (CI) Limited,213800K6VJ62SKV9VL48,CECIGGS1,RAVE,876,Off Book trading,CREST,9COAD,Self-Settlement,Ravenscroft (CI) Limited,False,
+Raymond James Financial International Limited,213800GH3F4OW1COOV72,RJFIGB21,RJFI,692,Off Book trading,DTCC,0725,Settlement-Agent,Raymond James & Associates,False,
+Raymond James Financial International Limited,213800GH3F4OW1COOV72,RJFIGB21,RJFI,692,Off Book trading,Euroclear Bank,99134,Settlement-Agent,Raymond James & Associates,False,
+Raymond James Financial International Limited,213800GH3F4OW1COOV72,RJFIGB21,RJFI,692,Off Book trading,CREST,BA03,Settlement-Agent,Raymond James & Associates,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,91932,Model-B,Pershing Securities Limited,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,Order Book for Retail Bonds,CREST,601,Model-B,Pershing Securities Limited,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,Off Book trading,DTCC,443,Model-B,Pershing Securities Limited,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Raymond James Investment Services Limited,213800YR9S9QWX3WF904,RJISGB21,RJIS,878,Off Book trading,Euroclear Bank,91932,Model-B,Pershing Securities Limited,False,
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,12490,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,International Order Book,Euroclear Bank,12490,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,SETS Order Book,CREST,388,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,Off Book trading,Euroclear Bank,12490,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,Off Book trading,CREST,1HQAQ,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,Off Book trading,CREST,388,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22,RBCE,388,Off Book trading,DTCC,5002,Self-Settlement,RBC Europe Limited,Yes,GEMM - IL GEMM - UK Domestic
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCGB22GED,RBCG,388,Off Book trading,CREST,4NKAV,Self-Settlement,RBC Europe Limited,False,
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCRBIM,RBIM,388,Off Book trading,CREST,11XHX,Settlement-Agent,Royal Bank of Canada (Channel Islands) Ltd,False,
+RBC Europe Limited,TXDSU46SXBWIGJ8G8E98,ROYCRBIM,RBIM,388,Off Book trading,Euroclear Bank,27662,Settlement-Agent,Royal Bank of Canada (Channel Islands) Ltd,False,
+Redburn (Europe) Limited,213800PKEJQZQXQCOJ04,RDBNGB21,RDBN,913,SETS Order Book,CREST,HFQAQ,Settlement-Agent,BNP Paribas SA,False,
+Redburn (Europe) Limited,213800PKEJQZQXQCOJ04,RDBNGB21,RDBN,913,Off Book trading,Euroclear Bank,16735,Settlement-Agent,BNP Paribas SA,False,
+Redburn (Europe) Limited,213800PKEJQZQXQCOJ04,RDBNGB21,RDBN,913,Off Book trading,CREST,HFQAQ,Settlement-Agent,BNP Paribas SA,False,
+Redmayne-Bentley LLP,213800S3IRIPK1R3JQ58,REDBGB21,REDM,612,Off Book trading,Euroclear Bank,16788,Self-Settlement,Redmayne-Bentley LLP,False,
+Redmayne-Bentley LLP,213800S3IRIPK1R3JQ58,REDBGB21,REDM,612,Off Book trading,CREST,612,Self-Settlement,Redmayne-Bentley LLP,False,
+Redmayne-Bentley LLP,213800S3IRIPK1R3JQ58,REDBGB21,REDM,612,Off Book trading,DTCC,901,Self-Settlement,Redmayne-Bentley LLP,False,
+Renaissance Capital Limited,213800RZ3GCUXMBGYN59,RECAGB2L,RENC,559,Off Book trading,Euroclear Bank,47761,Settlement-Agent,Euroclear Bank,False,
+Renaissance Capital Limited,213800RZ3GCUXMBGYN59,RECAGB2L,RENC,559,Off Book trading,CREST,56XKK,Settlement-Agent,Euroclear Bank,False,
+Renaissance Capital Limited,213800RZ3GCUXMBGYN59,RECAGB2L,RENC,559,Off Book trading,DTCC,902,Settlement-Agent,Euroclear Bank,False,
+Renaissance Capital Limited,213800RZ3GCUXMBGYN59,RECAGBMM,RENA,559,Off Book trading,CREST,56XKK,Settlement-Agent,Euroclear Bank,False,UK Securities
+R.J. O'Brien Limited,549300OHLZ0RR2TSKH90,KYGRGB21,KYGR,164,Off Book trading,CREST,EFUAA,Settlement-Agent,Societe Generale International Limited,False,
+Rowan Dartington & Co Limited,213800LW4J68M4B3GR20,ROWDGB21,DART,221,Off Book trading,CREST,221,Self-Settlement,Rowan Dartington & Co Limited,False,
+Seven Investment Management LLP,213800Z67VYVM8EQ1C25,SENGGB21,SEVN,119,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Seven Investment Management LLP,213800Z67VYVM8EQ1C25,SENGGBOFF21,SEVO,119,Off Book trading,CREST,GKQAQ,Settlement-Agent,Pershing (Channel Islands) Limited,False,
+Shard Capital Partners LLP,213800F19DFL9NQ7YL21,SCPPGB21,SCPP,626,Off Book trading,CREST,842,Model-B,Jarvis Investment Management Limited,False,
+Shard Capital Partners LLP,213800F19DFL9NQ7YL21,SCPPGB2L001,SCPS,626,Off Book trading,CREST,0PMAY,Settlement-Agent,SIX SIS AG,False,
+Shard Capital Partners LLP,213800F19DFL9NQ7YL21,SCPPGB2L001,SCPS,626,Off Book trading,DTCC,908,Settlement-Agent,SIX SIS AG,False,
+Shard Capital Partners LLP,213800F19DFL9NQ7YL21,SCPPGB2L002,SCPA,626,Off Book trading,CREST,BH01,Settlement-Agent,ABN AMRO CLEARING BANK N.V.,False,
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB21,SCAP,589,Order Book for Retail Bonds,CREST,589,Settlement-Agent,Pershing Securities Limited,Yes,Market Maker - ORB - UK Securities
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB21,SCAP,589,SETS Order Book,CREST,589,Settlement-Agent,Pershing Securities Limited,Yes,Market Maker - ORB - UK Securities
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB21,SCAP,589,Off Book trading,CREST,589,Settlement-Agent,Pershing Securities Limited,Yes,Market Maker - ORB - UK Securities
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB2L,SHOR,589,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB2L,SHOR,589,Off Book trading,DTCC,443,Model-B,Pershing Securities Limited,False,
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB2L,SHOR,589,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Shore Capital Stockbrokers Limited,2138009KZO3MK7TV6372,SHOCGB2L,SHOR,589,Off Book trading,Euroclear Bank,91932,Model-B,Pershing Securities Limited,False,
+SI Capital Ltd,213800SVXQT2O99EX376,SICDGB22,SICD,708,Off Book trading,Euroclear Bank,47711,Settlement-Agent,Global Prime Partners Ltd,False,
+SI Capital Ltd,213800SVXQT2O99EX376,SICDGB22,SICD,708,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,77252,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Order Book for Retail Bonds,CREST,ATMAY,Self-Settlement,Nplus1 Singer Capital Markets Limited,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,SETS Order Book,CREST,ATMAY,Self-Settlement,Nplus1 Singer Capital Markets Limited,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Off Book trading,DTCC,2787,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Off Book trading,Euroclear Bank,77252,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Off Book trading,CREST,842,Settlement-Agent,Jarvis Investment Management Limited,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Off Book trading,CREST,ATMAY,Self-Settlement,Singer Capital Markets Securities Limited,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB21,SING,46,Off Book trading,CREST,NNQAN,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB22,SIFI,46,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,77252,Settlement-Agent,BNP Paribas SA,Yes,
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB22,SIFI,46,Order Book for Retail Bonds,CREST,NNQAN,Settlement-Agent,BNP Paribas SA,Yes,
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB22,SIFI,46,SETS Order Book,CREST,NNQAN,Settlement-Agent,BNP Paribas SA,Yes,
+Singer Capital Markets Securities Limited,213800ITO7QMNQ9SFG53,SNGRGB22,SIFI,46,Off Book trading,CREST,NNQAN,Settlement-Agent,BNP Paribas SA,Yes,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,74696,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,International Order Book,Euroclear Bank,74696,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,SETS Order Book,CREST,2CUAG,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,Off Book trading,CREST,2CUAG,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,Off Book trading,DTCC,5242,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2L,SGSL,725,Off Book trading,Euroclear Bank,74696,Self-Settlement,Societe Generale,False,
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,41066,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,International Order Book,Euroclear Bank,41066,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,SETS Order Book,CREST,EQUAA,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,Off Book trading,Euroclear Bank,41066,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,Off Book trading,DTCC,5242,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,Off Book trading,Euroclear Bank,91436,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SGSTGB2LBIC,SGSE,716,Off Book trading,CREST,EQUAA,Self-Settlement,Societe Generale,Yes,Market Maker - UK Securities  Access to Order book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SOGEFRPPHCM,SGTL,840,International Order Book,Euroclear Bank,41066,Self-Settlement,Societe Generale,Yes,Access to Order Book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SOGEFRPPHCM,SGTL,840,SETS Order Book,CREST,EQUAA,Self-Settlement,Societe Generale,Yes,Access to Order Book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SOGEFRPPHCM,SGTL,840,Off Book trading,Euroclear Bank,41066,Settlement-Agent,Citibank N.A.,Yes,Access to Order Book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SOGEFRPPHCM,SGTL,840,Off Book trading,CREST,EQUAA,Settlement-Agent,Citibank N.A.,Yes,Access to Order Book for Fixed Income Securities
+Societe Generale,O2RNE8IBXP4R0TD8PU41,SOGEFRPPHCM,SGTL,840,Off Book trading,CREST,IDMAY,Settlement-Agent,Citibank N.A.,Yes,Access to Order Book for Fixed Income Securities
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,FIMAGBKA,FIMA,248,SETS Order Book,CREST,4LQAQ,Settlement-Agent,BNP Paribas SA,False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,FIMAGBKA,FIMA,248,Off Book trading,DTCC,2164,Settlement-Agent,"Joh. Berenberg, Gossler & Co. KG",False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,FIMAGBKA,FIMA,248,Off Book trading,Euroclear Bank,24747,Settlement-Agent,"Joh. Berenberg, Gossler & Co. KG",False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,FIMAGBKA,FIMA,248,Off Book trading,Euroclear Bank,24747,Self-Settlement,Societe Generale International Limited,False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,NEWEDGE1,NEWA,248,SETS Order Book,CREST,4LQAQ,Settlement-Agent,BNP Paribas SA,False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,NEWEDGE1,NEWA,248,Off Book trading,CREST,4LQAQ,Settlement-Agent,BNP Paribas SA,False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,NEWEDGE2,NEWB,248,SETS Order Book,CREST,4LQAQ,Settlement-Agent,BNP Paribas SA,False,
+Societe Generale International Limited,0IKLU6X1B10WK7X42C15,NEWEDGE2,NEWB,248,Off Book trading,CREST,4LQAQ,Settlement-Agent,BNP Paribas SA,False,
+S P Angel Corporate Finance LLP,2138009SLAM48YVX9X83,ACELGB21,ACEL,301,Off Book trading,CREST,BO01,Settlement-Agent,Global Prime Partners Ltd,False,
+SSW-Trading GmbH,52990022Z6AVYLH8IO31,SMMGDE81,SMMG,153,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+SSW-Trading GmbH,52990022Z6AVYLH8IO31,SMMGDE81,SMMG,153,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+SSW-Trading GmbH,52990022Z6AVYLH8IO31,SMMGDE81,SMMG,153,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+SSW-Trading GmbH,52990022Z6AVYLH8IO31,SMMGDE81,SMMG,153,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+SSW-Trading GmbH,52990022Z6AVYLH8IO31,SMMGDE81,SMMG,153,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,KEBWGB21,KBWL,6,SETS Order Book,CREST,3NUAA,Settlement-Agent,BNP Paribas SA,Yes,Trading as Keefe Bruyette & Woods
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,KEBWGB21,KBWL,6,Off Book trading,Euroclear Bank,29160,Settlement-Agent,BNP Paribas SA,Yes,Trading as Keefe Bruyette & Woods
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,KEBWGB21,KBWL,6,Off Book trading,CREST,3NUAA,Settlement-Agent,BNP Paribas SA,Yes,Trading as Keefe Bruyette & Woods
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21,STFC,6,Off Book trading,Euroclear Bank,78770,Settlement-Agent,BNP Paribas SA,False,
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21,STFC,6,Off Book trading,CREST,GFQAQ,Settlement-Agent,BNP Paribas SA,False,
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21STF,STFL,6,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,29160,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21STF,STFL,6,International Order Book,Euroclear Bank,29160,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21STF,STFL,6,SETS Order Book,CREST,3NUAA,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21STF,STFL,6,Off Book trading,Euroclear Bank,29160,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+Stifel Nicolaus Europe Limited,213800BVEFNZ8UYPKL03,STNOGB21STF,STFL,6,Off Book trading,CREST,3NUAA,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK Securities
+StoneX Financial Ltd,549300AWF3TOHRYL7754,IGLUGB2LXXX,SNEX,613,Off Book trading,DTCC,02787,Settlement-Agent,BNP Paribas SA,False,
+StoneX Financial Ltd,549300AWF3TOHRYL7754,IGLUGB2LXXX,SNEX,613,Off Book trading,Euroclear Bank,49671,Settlement-Agent,BNP Paribas SA,False,
+StoneX Financial Ltd,549300AWF3TOHRYL7754,IGLUGB2LXXX,SNEX,613,Off Book trading,CREST,EPQAN,Settlement-Agent,BNP Paribas SA,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,International Order Book,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,SETS Order Book,CREST,916,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,DTCC,161,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,CREST,916,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21,SISS,916,Off Book trading,CREST,LFQAQ,Settlement-Agent,Citibank N.A.,Yes,Market Maker - UK Securities
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GSB,SISG,916,SETS Order Book,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GSB,SISG,916,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GSB,SISG,916,Off Book trading,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GUK,SISK,916,International Order Book,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GUK,SISK,916,SETS Order Book,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GUK,SISK,916,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21GUK,SISK,916,Off Book trading,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,False,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,International Order Book,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,SETS Order Book,CREST,916,Settlement-Agent,Merrill Lynch International,Yes,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,Off Book trading,DTCC,161,Settlement-Agent,Merrill Lynch International,Yes,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,Off Book trading,CREST,916,Settlement-Agent,Merrill Lynch International,Yes,
+Susquehanna International Securities Limited,635400IAV22ZOU1NFS89,SISSIE21UKB,SISU,916,Off Book trading,Euroclear Bank,96898,Settlement-Agent,Merrill Lynch International,Yes,
+TD Execution Services Limited,213800SS94VGJTFLIG64,CVGXGB21,COWN,473,Off Book trading,CREST,FFQAQ,Settlement-Agent,BNP Paribas SA,False,
+TFS Derivatives Ltd,549300WXUYR1CMLDQF25,TFDEGB21,TFSD,700,Off Book trading,DTCC,2601,Settlement-Agent,Tradition London Clearing Limited,False,
+TFS Derivatives Ltd,549300WXUYR1CMLDQF25,TFDEGB21,TFSD,700,Off Book trading,Euroclear Bank,27565,Settlement-Agent,Tradition London Clearing Limited,False,
+TFS Derivatives Ltd,549300WXUYR1CMLDQF25,TFDEGB21,TFSD,700,Off Book trading,Euroclear Bank,97099,Settlement-Agent,Tradition London Clearing Limited,False,
+TFS Derivatives Ltd,549300WXUYR1CMLDQF25,TFDEGB21,TFSD,700,Off Book trading,CREST,DGQAQ,Settlement-Agent,Tradition London Clearing Limited,False,
+The Seaport Group Europe LLP,2138003MLD2U3GEMHS70,SGELGB21,SGEL,944,International Order Book,Euroclear Bank,45808,Model-B,Pershing Securities Limited,False,
+The Seaport Group Europe LLP,2138003MLD2U3GEMHS70,SGELGB21,SGEL,944,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+The Seaport Group Europe LLP,2138003MLD2U3GEMHS70,SGELGB21,SGEL,944,Off Book trading,Euroclear Bank,45808,Model-B,Pershing Securities Limited,False,
+The Seaport Group Europe LLP,2138003MLD2U3GEMHS70,SGELGB21,SGEL,944,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+The Toronto-Dominion Bank (London Branch),PT3QB789TSUIDF371261,TDOMGB31CAR,TDOB,894,Off Book trading,CREST,9RMAY,Self-Settlement,The Toronto-Dominion Bank (London Branch),False,GEMM - IL GEMM
+Third Platform Services Limited,2138006FDWVEHMYAYK28,THPEGB21,THPE,199,Off Book trading,CREST,0EUAG,Self-Settlement,Third Platform Services Limited,False,
+Thomas Grant & Company Ltd,213800AB46IBMI36YY02,THOGGB21,TGCL,789,Off Book trading,CREST,789,Self-Settlement,Thomas Grant & Company Ltd,False,
+Thomas Grant & Company Ltd,213800AB46IBMI36YY02,THOGGB21PRN,TGCP,789,Off Book trading,CREST,IRUAA,Self-Settlement,Thomas Grant & Company Ltd,False,
+Titan Private Wealth Limited,213800SMQKWRJHU9X118,CATKGB21,CDSB,374,Off Book trading,CREST,NNKAV,Self-Settlement,Cardale Asset Management Limited,False,
+Tourmaline Europe LLP,213800MWJ1TXNQIF5J22,TOELGB21,TOEL,460,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Tourmaline Europe LLP,213800MWJ1TXNQIF5J22,TOELGB21,TOEL,460,Off Book trading,Euroclear Bank,94589,Settlement-Agent,Goldman Sachs International,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,SPIRE001,SPIR,264,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,SPIRE001,SPIR,264,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,SPIRGB21,TOWR,264,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,SPIRGB21,TOWR,264,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,TOWERGS1,TOGS,264,SETS Order Book,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,TOWERGS1,TOGS,264,Off Book trading,CREST,303,Settlement-Agent,Goldman Sachs International,False,
+Tower Research Capital Europe Limited,54930090O4QNGA8IEC21,TOWERGS1,TOGS,264,Off Book trading,Euroclear Bank,77834,Settlement-Agent,Goldman Sachs International,False,
+Tradition Securities and Futures SA,969500ULC0Y1IG0A4O72,TREFFRP2,TREF,23,Off Book trading,DTCC,2601,Settlement-Agent,Tradition London Clearing Limited,False,
+Tradition Securities and Futures SA,969500ULC0Y1IG0A4O72,TREFFRP2,TREF,23,Off Book trading,Euroclear Bank,27565,Settlement-Agent,Tradition London Clearing Limited,False,
+Tradition Securities and Futures SA,969500ULC0Y1IG0A4O72,TREFFRP2,TREF,23,Off Book trading,CREST,DGQAQ,Settlement-Agent,Tradition London Clearing Limited,False,
+Turner Pope Investments (TPI) Ltd,213800M3JEBD9MN3FN03,TPIIGB21,TPII,933,Off Book trading,Euroclear Bank,44436,Model-B,Jarvis Investment Management Limited,False,
+Turner Pope Investments (TPI) Ltd,213800M3JEBD9MN3FN03,TPIIGB21,TPII,933,Off Book trading,CREST,842,Model-B,Jarvis Investment Management Limited,False,
+UBS AG,BFM8T61CT2L1QCEMIK50,SWGEGB2LBIC,WARB,3,Off Book trading,CREST,003,Self-Settlement,UBS AG,False,
+UBS AG,BFM8T61CT2L1QCEMIK50,SWGEGB2LBIC,WARB,3,Off Book trading,CREST,7965,Self-Settlement,UBS AG,False,
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,International Order Book,Euroclear Bank,90308,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,SETS Order Book,CREST,002,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,Off Book trading,CREST,002,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,Off Book trading,CREST,00201,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,Off Book trading,DTCC,2029,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWGB2LEQU,UBS.,2,Off Book trading,Euroclear Bank,90308,Self-Settlement,UBS AG,Yes,Market Maker - UK Securities
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWMLDN,UBSW,169,SETS Order Book,CREST,MOMAY,Self-Settlement,UBS AG,False,
+UBS AG,BFM8T61CT2L1QCEMIK50,UBSWMLDN,UBSW,169,Off Book trading,CREST,MOMAY,Self-Settlement,UBS AG,False,
+UBS AG London Branch,BFM8T61CT2L1QCEMIK50,UBSIBLDN,UBSA,413,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,90308,Self-Settlement,UBS AG London Branch,Yes,
+UBS AG London Branch,BFM8T61CT2L1QCEMIK50,UBSIBLDN,UBSA,413,International Order Book,Euroclear Bank,90308,Self-Settlement,UBS AG London Branch,Yes,
+UBS AG London Branch,BFM8T61CT2L1QCEMIK50,UBSIBLDN,UBSA,413,SETS Order Book,CREST,002,Self-Settlement,UBS AG London Branch,Yes,
+UBS AG London Branch,BFM8T61CT2L1QCEMIK50,UBSIBLDN,UBSA,413,Off Book trading,CREST,002,Self-Settlement,UBS AG London Branch,Yes,
+UBS AG London Branch,BFM8T61CT2L1QCEMIK50,UBSIBLDN,UBSA,413,Off Book trading,Euroclear Bank,90308,Self-Settlement,UBS AG London Branch,Yes,
+UG Europe AG,50670029C9OFTU6NFN86,EUOECH21,EUOE,481,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+UG Europe AG,50670029C9OFTU6NFN86,EUOECH21,EUOE,481,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+UG Europe AG,50670029C9OFTU6NFN86,EUOECH21,EUOE,481,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+UG Europe AG,50670029C9OFTU6NFN86,EUOECH21,EUOE,481,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,25283,Settlement-Agent,Caceis Bank SA,Yes,Market Maker - UK Securities
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,International Order Book,Euroclear Bank,25283,Settlement-Agent,Caceis Bank SA,Yes,Market Maker - UK Securities
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,SETS Order Book,CREST,8OMAY,Settlement-Agent,Caceis Bank SA,Yes,Market Maker - UK Securities
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,Off Book trading,Euroclear Bank,25283,Settlement-Agent,CACEIS Bank Deutschland GmbH,Yes,Market Maker - UK Securities
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,Off Book trading,DTCC,2598,Settlement-Agent,CACEIS Bank Deutschland GmbH,Yes,Market Maker - UK Securities
+Unicredit Bank GmbH London Branch,2ZCNRR8UK83OBTEK2170,HYVEDEMM,BHVB,979,Off Book trading,CREST,8OMAY,Settlement-Agent,CACEIS Bank Deutschland GmbH,Yes,Market Maker - UK Securities
+Van Lanschot Kempen N.V.,724500D8WOYCL1BUCB80,KEMPNL2A,KEMP,120,Off Book trading,CREST,FQUAG,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,15207,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,International Order Book,Euroclear Bank,15207,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,SETS Order Book,CREST,1CUAA,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,Off Book trading,Euroclear Bank,15207,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,Off Book trading,CREST,1CUAA,Settlement-Agent,BNP Paribas SA,False,
+Virtu Europe Trading Limited,213800EEC95PRUCEUP63,ITGLIE21,ITGL,227,Off Book trading,DTCC,902,Settlement-Agent,BNP Paribas SA,False,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE1,VFIL,214,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Domestic
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE1,VFIL,214,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Domestic
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE1,VFIL,214,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Domestic
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE1,VFIL,214,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Domestic
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE1,VFIL,214,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,Market Maker - UK Domestic
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE2,VFAL,214,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE2,VFAL,214,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE3,VIRT,214,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE3,VIRT,214,International Order Book,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE3,VIRT,214,SETS Order Book,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE3,VIRT,214,Off Book trading,Euroclear Bank,23197,Settlement-Agent,BofA Securities Europe SA,Yes,
+Virtu Financial Ireland Limited,549300XG5LFGN1IGYC71,VFILLSE3,VIRT,214,Off Book trading,CREST,5SQAN,Settlement-Agent,BofA Securities Europe SA,Yes,
+Walker Crips Investment Management Limited,213800DAFKGCXA75BD06,WCWBGB21,WCPP,873,Order Book for Retail Bonds,CREST,873,Self-Settlement,Walker Crips Investment Management Limited,False,
+Walker Crips Investment Management Limited,213800DAFKGCXA75BD06,WCWBGB21,WCPP,873,Off Book trading,DTCC,010,Self-Settlement,Walker Crips Investment Management Limited,False,
+Walker Crips Investment Management Limited,213800DAFKGCXA75BD06,WCWBGB21,WCPP,873,Off Book trading,Euroclear Bank,38288,Self-Settlement,Walker Crips Investment Management Limited,False,
+Walker Crips Investment Management Limited,213800DAFKGCXA75BD06,WCWBGB21,WCPP,873,Off Book trading,CREST,873,Self-Settlement,Walker Crips Investment Management Limited,False,
+Webb Traders B.V.,724500VR7OURFA1R7694,WETRNL21,WEBB,308,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Webb Traders B.V.,724500VR7OURFA1R7694,WETRNL21,WEBB,308,International Order Book,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Webb Traders B.V.,724500VR7OURFA1R7694,WETRNL21,WEBB,308,SETS Order Book,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Webb Traders B.V.,724500VR7OURFA1R7694,WETRNL21,WEBB,308,Off Book trading,Euroclear Bank,14448,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+Webb Traders B.V.,724500VR7OURFA1R7694,WETRNL21,WEBB,308,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,Yes,
+W H Ireland Limited,21380036BEFEQ3ZRP871,WHISGB21,IRES,384,Off Book trading,CREST,BH01,Settlement-Agent,HSBC Bank plc,False,
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINFGB21,WING,803,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20675,Settlement-Agent,BNP Paribas SA,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINFGB21,WING,803,Order Book for Retail Bonds,CREST,803,Self-Settlement,Winterflood Securities Ltd,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINFGB21,WING,803,SETS Order Book,CREST,803,Self-Settlement,Winterflood Securities Ltd,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINFGB21,WING,803,Off Book trading,Euroclear Bank,20675,Settlement-Agent,BNP Paribas SA,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINFGB21,WING,803,Off Book trading,CREST,803,Self-Settlement,Winterflood Securities Ltd,Yes,GEMM - IL GEMM - Fixed Interest - UK Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WINTERG0,WBUS,802,Off Book trading,CREST,LLUAA,Self-Settlement,Winterflood Securities Ltd,False,
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,20673,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,International Order Book,Euroclear Bank,20673,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,SETS Order Book,CREST,801,Self-Settlement,Winterflood Securities Ltd,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,Off Book trading,Euroclear Bank,20673,Settlement-Agent,BNP Paribas SA,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,Off Book trading,CREST,801,Self-Settlement,Winterflood Securities Ltd,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,Off Book trading,CREST,80101,Self-Settlement,Winterflood Securities Ltd,Yes,Market Maker - UK & International Securities
+Winterflood Securities Ltd,8BRUP6V1DX3PIG2R0745,WNTSGB2LBIC,WINS,801,Off Book trading,DTCC,8120,Self-Settlement,Winterflood Securities Ltd,Yes,Market Maker - UK & International Securities
+Xconnect Trading Limited,2138008NIL42YTU4S857,CONXGB21,XCTL,54,Off Book trading,CREST,2CUAG,Settlement-Agent,Societe Generale,False,
+Xconnect Trading Limited,2138008NIL42YTU4S857,CONXGB21,XCTL,54,Off Book trading,CREST,573,Model-B,ABN AMRO CLEARING BANK N.V.,False,
+Xconnect Trading Limited,2138008NIL42YTU4S857,CONXGB21,XCTL,54,Off Book trading,CREST,BO025,Settlement-Agent,Global Prime Partners Ltd,False,
+XTX Markets Limited,213800WPTIY9961G2O04,TXMKGB21,TXMK,622,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Limited,213800WPTIY9961G2O04,TXMKGB21,TXMK,622,International Order Book,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Limited,213800WPTIY9961G2O04,TXMKGB21,TXMK,622,SETS Order Book,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Limited,213800WPTIY9961G2O04,TXMKGB21,TXMK,622,Off Book trading,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Limited,213800WPTIY9961G2O04,TXMKGB21,TXMK,622,Off Book trading,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Trading Limited,213800N2KFBZBWWT8D92,XTMTGB22,XTMT,621,Exchange Traded Funds – Euroclear Bank Settlement,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Trading Limited,213800N2KFBZBWWT8D92,XTMTGB22,XTMT,621,International Order Book,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Trading Limited,213800N2KFBZBWWT8D92,XTMTGB22,XTMT,621,SETS Order Book,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Trading Limited,213800N2KFBZBWWT8D92,XTMTGB22,XTMT,621,Off Book trading,Euroclear Bank,91805,Settlement-Agent,Merrill Lynch International,False,
+XTX Markets Trading Limited,213800N2KFBZBWWT8D92,XTMTGB22,XTMT,621,Off Book trading,CREST,FNMAY,Settlement-Agent,Merrill Lynch International,False,
+Zeus Capital Limited,213800F6CHS1SEYK1842,ZEUSGB21,ZEUS,360,SETS Order Book,CREST,601,Model-B,Pershing Securities Limited,False,
+Zeus Capital Limited,213800F6CHS1SEYK1842,ZEUSGB21,ZEUS,360,Off Book trading,CREST,601,Model-B,Pershing Securities Limited,False,
+Zeus Capital Limited,213800F6CHS1SEYK1842,ZEUZGB21,ZEUZ,360,SETS Order Book,CREST,601,Settlement-Agent,Pershing Securities Limited,Yes,
+Zeus Capital Limited,213800F6CHS1SEYK1842,ZEUZGB21,ZEUZ,360,Off Book trading,CREST,601,Settlement-Agent,Pershing Securities Limited,Yes,
