@@ -73,8 +73,14 @@
   - indicates that 98730 belongs to Pershing LLC
   - google search prompt: euroclear 98730
 
-- ref [11]
+- ref [11]:
   - 11 - PLATAFORMA-TRANSMISSAO-ORDENS_2021.pdf
   - seems to indicate that 21159 eclr is citigroup
   - source: https://www.cgd.pt/Site/CXA/Caixa-gestao-ativos/Institucional/Publicacoes-Obrigatorias/Documents/PLATAFORMA-TRANSMISSAO-ORDENS_2021.pdf
   - google search prompt: euroclear 21159 (and adding irrelevant results)
+
+- ref [12]:
+  - Opus_Notice_DE000A184F09_20231129.pdf
+  - indicates that 77354 belongs to Société Générale Luxembourg
+  - google search prompt: euroclear 77354
+  - https://chartered-opus.com/fileadmin/user_upload/opus/DownloadPDFs/Mitteilungen/Opus_Notice_DE000A184F09_20231129.pdf
