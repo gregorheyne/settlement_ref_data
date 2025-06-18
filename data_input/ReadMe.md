@@ -72,3 +72,9 @@
       - https://oceanfdn.org/wp-content/uploads/2019/07/New-Instructions-Gift-of-appreciated-stocks.pdf
   - indicates that 98730 belongs to Pershing LLC
   - google search prompt: euroclear 98730
+
+- ref [11]
+  - 11 - PLATAFORMA-TRANSMISSAO-ORDENS_2021.pdf
+  - seems to indicate that 21159 eclr is citigroup
+  - source: https://www.cgd.pt/Site/CXA/Caixa-gestao-ativos/Institucional/Publicacoes-Obrigatorias/Documents/PLATAFORMA-TRANSMISSAO-ORDENS_2021.pdf
+  - google search prompt: euroclear 21159 (and adding irrelevant results)

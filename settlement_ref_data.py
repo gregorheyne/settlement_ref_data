@@ -67,6 +67,7 @@ def get_eclr_name_map():
     eclr_name_map['23162'] = 'Bank of America SECURITIES EUROPE SA (via ECLR - [09])'  # source [9]
     eclr_name_map['23210'] = 'Bank of America SECURITIES EUROPE SA (via ECLR - [09])'  # source [9]
     eclr_name_map['98730'] = 'Pershing LLC (via ECLR - [08, 10])'  # source [8, 10]
+    eclr_name_map['21159'] = 'Citigroup (via ECLR - [11])'  # source [11]
 
     # load bolton_eclr_codes_json
     with open('data_generated/bolton_eclr_codes.json') as f:
