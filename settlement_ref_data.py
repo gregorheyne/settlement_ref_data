@@ -2,26 +2,59 @@ import json
 import pandas as pd
 
 def build_lseg_eclr_json():
-    
-    lseg_codes = pd.read_csv('data_input/05 - MemberFirmCodes_June_17-2025_9_09_00_AM.xlsx - MemberFirmCodes.csv')
-    # reduce to eclr
-    # we use self settle only, since e.g. Settlement-Agent also shows other accounts
-    # (check e.g. Settlement Code = 94589)
-    flag_eclr = lseg_codes['Settles In'] == 'Euroclear Bank'
-    flag_self_settle = lseg_codes['Settlement Type'] == 'Self-Settlement'
-    lseg_eclr_codes = lseg_codes[flag_eclr & flag_self_settle]
-    # drop cols
-    lseg_eclr_codes = lseg_eclr_codes[['Account', 'Settlement Code', 'Settlement Provider']].drop_duplicates()
-    # check that account and settlement provider are the same always
-    flag_check = lseg_eclr_codes['Account'] != lseg_eclr_codes['Settlement Provider']
-    assert lseg_eclr_codes[flag_check].shape[0] == 1, 'detected more account not equal to settlement provider'
 
+    lseg_codes = pd.read_csv('data_input/05 - MemberFirmCodes_June_17-2025_9_09_00_AM.xlsx - MemberFirmCodes.csv')
+
+    # check on settlement types
+    assert set(lseg_codes['Settlement Type']) == {'Self-Settlement', 'Settlement-Agent', 'Model-B'}, 'settlement types changed'
+
+    # reduce to eclr
+    flag_eclr = lseg_codes['Settles In'] == 'Euroclear Bank'
+    lseg_eclr_codes = lseg_codes[flag_eclr].copy()
+
+    # region start with self settle
+    flag_self_settle = lseg_eclr_codes['Settlement Type'] == 'Self-Settlement'
+    lseg_eclr_codes_self = lseg_eclr_codes[flag_self_settle].copy()
+    # drop cols
+    lseg_eclr_codes_self = lseg_eclr_codes_self[['Account', 'Settlement Code', 'Settlement Provider']].drop_duplicates()
+    # check that account and settlement provider are the same always
+    flag_check = lseg_eclr_codes_self['Account'] != lseg_eclr_codes_self['Settlement Provider']
+    assert lseg_eclr_codes_self[flag_check].shape[0] == 1, 'detected more account not equal to settlement provider for self settlement'
     # build json from accounts
-    lseg_eclr_codes = lseg_eclr_codes[['Account', 'Settlement Code']].drop_duplicates(subset=['Settlement Code'], keep='last')
-    print(f'found {lseg_eclr_codes.shape[0]} eclr accounts')
-    lseg_eclr_codes_json = dict(zip(lseg_eclr_codes['Settlement Code'],lseg_eclr_codes['Account']))
+    lseg_eclr_codes_self = lseg_eclr_codes_self[['Account', 'Settlement Code']].drop_duplicates(subset=['Settlement Code'], keep='last')
+    print(f'found {lseg_eclr_codes_self.shape[0]} eclr self settlement accounts')
+    lseg_eclr_codes_self_json = dict(zip(lseg_eclr_codes_self['Settlement Code'], lseg_eclr_codes_self['Account']))
     # modify values to indicate source
-    lseg_eclr_codes_json = {x: lseg_eclr_codes_json[x] + ' (via ECLR - LSEG)'  for x in lseg_eclr_codes_json.keys()}
+    lseg_eclr_codes_self_json = {x: lseg_eclr_codes_self_json[x] + ' (via ECLR - LSEG)'  for x in lseg_eclr_codes_self_json.keys()}
+    # endregion
+
+    # region settlement types 'Settlement-Agent' and 'Model-B'
+    flag_non_self = lseg_eclr_codes['Settlement Type'] != 'Self-Settlement'
+    lseg_eclr_codes_non_self = lseg_eclr_codes[flag_non_self].copy()
+    # drop cols
+    lseg_eclr_codes_non_self = lseg_eclr_codes_non_self[['Account', 'Settlement Code', 'Settlement Provider']].drop_duplicates()
+    # check that account and settlement provider are never the same
+    flag_check = lseg_eclr_codes_non_self['Account'] == lseg_eclr_codes_non_self['Settlement Provider']
+    assert lseg_eclr_codes_non_self[flag_check].shape[0] == 0, 'detected account equal to settlement provider for non-self'
+    # further reduction by only allowing codes that are not in the self settlement version already
+    # (check for example code 14448, which is used for self-settlement but also for model-b types)
+    lseg_eclr_codes_non_self = lseg_eclr_codes_non_self[~lseg_eclr_codes_non_self['Settlement Code'].isin(lseg_eclr_codes_self_json.keys())]
+    # check for duplicate Settlement Codes
+    lseg_eclr_codes_non_self['count_code'] = lseg_eclr_codes_non_self.groupby('Settlement Code')['Settlement Code'].transform('count')
+    lseg_eclr_codes_non_self[lseg_eclr_codes_non_self['count_code']==4]
+    # since there are still duplicates in the accounts we just take the settlement provider
+    #  but flag is as being an agent or model b type inferred
+    lseg_eclr_codes_non_self = lseg_eclr_codes_non_self[['Settlement Code', 'Settlement Provider']].drop_duplicates()
+    print(f'found {lseg_eclr_codes_non_self.shape[0]} eclr non-self settlement accounts')
+    # build json from accounts
+    lseg_eclr_codes_non_self_json = dict(zip(lseg_eclr_codes_non_self['Settlement Code'], lseg_eclr_codes_non_self['Settlement Provider']))
+    # modify values to indicate source
+    lseg_eclr_codes_non_self_json = {x: lseg_eclr_codes_non_self_json[x] + ' (via ECLR - LSEG non-self)'  for x in lseg_eclr_codes_non_self_json.keys()}
+    # endregion
+
+    # combine
+    lseg_eclr_codes_json = lseg_eclr_codes_self_json | lseg_eclr_codes_non_self_json
+    print(f'{len(lseg_eclr_codes_json)} lseg eclr codes together')
 
     with open("data_generated/lseg_eclr_codes.json", "w") as file:
         json.dump(lseg_eclr_codes_json, file, indent=4)
